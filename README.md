@@ -6,7 +6,7 @@ Turn your Strava and Garmin activities into GitHub-style contribution graphs. Au
 
 Check out my blog: [Night Runner's Blog](https://night-runner.bullet.site)
 
-View the Interactive [Activity Dashboard](https://ahrorkosimi.github.io/git-sweaty/).  
+View the Interactive [Activity Dashboard](http://ettore.trevisiol.net/git-sweaty/).  
 Once setup is complete, this dashboard link will automatically update to your own GitHub Pages URL.
 
 
