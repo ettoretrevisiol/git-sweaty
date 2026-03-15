@@ -11412,5 +11412,31 @@
     "start_date_local": "2026-03-14T11:07:19Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-03-15",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17727181369",
+    "moving_time": 1956.0,
+    "name": "Morning Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-03-15T09:04:56Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-15",
+    "distance": 23321.2,
+    "elevation_gain": 0.0,
+    "id": "17730052446",
+    "moving_time": 3006.0,
+    "name": "La dura legge del gol",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-15T12:00:28Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
