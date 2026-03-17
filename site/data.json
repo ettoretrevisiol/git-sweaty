@@ -7919,6 +7919,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/17730052446",
       "year": 2026
+    },
+    {
+      "date": "2026-03-16",
+      "hour": 19,
+      "name": "Formula Netflix",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17745805378",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -15829,6 +15838,15 @@
           "distance": 23321.2,
           "elevation_gain": 0.0,
           "moving_time": 3006.0
+        },
+        "2026-03-16": {
+          "activity_ids": [
+            "17745805378"
+          ],
+          "count": 1,
+          "distance": 27186.9,
+          "elevation_gain": 0.0,
+          "moving_time": 3307.0
         }
       },
       "WeightTraining": {
@@ -15943,7 +15961,7 @@
       }
     }
   },
-  "generated_at": "2026-03-16T16:03:26.471404+00:00",
+  "generated_at": "2026-03-17T16:03:42.174730+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/75538698",
   "repo": "ettoretrevisiol/git-sweaty",

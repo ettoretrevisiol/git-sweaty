@@ -11438,5 +11438,18 @@
     "start_date_local": "2026-03-15T12:00:28Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-03-16",
+    "distance": 27186.9,
+    "elevation_gain": 0.0,
+    "id": "17745805378",
+    "moving_time": 3307.0,
+    "name": "Formula Netflix",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-16T19:26:56Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
