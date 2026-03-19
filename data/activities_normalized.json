@@ -11451,5 +11451,18 @@
     "start_date_local": "2026-03-16T19:26:56Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-03-18",
+    "distance": 27021.4,
+    "elevation_gain": 0.0,
+    "id": "17770623468",
+    "moving_time": 3515.0,
+    "name": "Heatseeker",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-18T19:05:18Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
