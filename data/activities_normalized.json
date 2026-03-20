@@ -11464,5 +11464,18 @@
     "start_date_local": "2026-03-18T19:05:18Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-03-19",
+    "distance": 26930.2,
+    "elevation_gain": 0.0,
+    "id": "17783134637",
+    "moving_time": 3296.0,
+    "name": "Mony Mony",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-19T19:22:34Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
