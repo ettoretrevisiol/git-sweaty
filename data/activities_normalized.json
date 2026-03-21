@@ -11477,5 +11477,18 @@
     "start_date_local": "2026-03-19T19:22:34Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-03-21",
+    "distance": 37766.2,
+    "elevation_gain": 353.4,
+    "id": "17803767911",
+    "moving_time": 6190.0,
+    "name": "Champoluc",
+    "raw_activity_type": "AlpineSki",
+    "raw_type": "AlpineSki",
+    "start_date_local": "2026-03-21T09:16:01Z",
+    "type": "AlpineSki",
+    "year": 2026
   }
 ]
