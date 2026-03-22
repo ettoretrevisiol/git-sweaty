@@ -7955,6 +7955,15 @@
       "type": "AlpineSki",
       "url": "https://www.strava.com/activities/17803767911",
       "year": 2026
+    },
+    {
+      "date": "2026-03-22",
+      "hour": 9,
+      "name": "Coppa Cobram 100k windy edition",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17815545628",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -15566,6 +15575,15 @@
           "distance": 63942.7,
           "elevation_gain": 141.0,
           "moving_time": 8788.0
+        },
+        "2026-03-22": {
+          "activity_ids": [
+            "17815545628"
+          ],
+          "count": 1,
+          "distance": 100234.0,
+          "elevation_gain": 206.0,
+          "moving_time": 12230.0
         }
       },
       "VirtualRide": {
@@ -16015,7 +16033,7 @@
       }
     }
   },
-  "generated_at": "2026-03-21T15:22:56.333580+00:00",
+  "generated_at": "2026-03-22T15:23:38.814988+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/75538698",
   "repo": "ettoretrevisiol/git-sweaty",
