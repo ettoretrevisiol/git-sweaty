@@ -7973,6 +7973,24 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/17836767649",
       "year": 2026
+    },
+    {
+      "date": "2026-03-26",
+      "hour": 18,
+      "name": "Walk of Life",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17868751055",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-27",
+      "hour": 8,
+      "name": "Morning Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/17874013028",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -15937,6 +15955,15 @@
           "distance": 27188.0,
           "elevation_gain": 0.0,
           "moving_time": 3416.0
+        },
+        "2026-03-26": {
+          "activity_ids": [
+            "17868751055"
+          ],
+          "count": 1,
+          "distance": 27163.3,
+          "elevation_gain": 0.0,
+          "moving_time": 3350.0
         }
       },
       "WeightTraining": {
@@ -16047,11 +16074,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 1956.0
+        },
+        "2026-03-27": {
+          "activity_ids": [
+            "17874013028"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2030.0
         }
       }
     }
   },
-  "generated_at": "2026-03-26T16:10:12.148653+00:00",
+  "generated_at": "2026-03-27T15:50:51.225902+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/75538698",
   "repo": "ettoretrevisiol/git-sweaty",
