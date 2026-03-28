@@ -11542,5 +11542,18 @@
     "start_date_local": "2026-03-27T08:37:14Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-03-28",
+    "distance": 96251.3,
+    "elevation_gain": 189.0,
+    "id": "17888449085",
+    "moving_time": 11937.0,
+    "name": "First bibshort of 2026",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-03-28T09:56:31Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
