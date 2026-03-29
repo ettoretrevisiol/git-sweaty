@@ -11555,5 +11555,18 @@
     "start_date_local": "2026-03-28T09:56:31Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-03-29",
+    "distance": 63926.5,
+    "elevation_gain": 121.0,
+    "id": "17899592770",
+    "moving_time": 8419.0,
+    "name": "Morimondo invasion \u2615\ufe0f",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-03-29T10:07:56Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
