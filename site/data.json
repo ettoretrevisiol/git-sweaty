@@ -8018,6 +8018,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/17921336877",
       "year": 2026
+    },
+    {
+      "date": "2026-04-03",
+      "hour": 9,
+      "name": "Girls got rhythm",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17958461274",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -16018,6 +16027,15 @@
           "distance": 27183.3,
           "elevation_gain": 0.0,
           "moving_time": 3307.0
+        },
+        "2026-04-03": {
+          "activity_ids": [
+            "17958461274"
+          ],
+          "count": 1,
+          "distance": 14927.7,
+          "elevation_gain": 0.0,
+          "moving_time": 1934.0
         }
       },
       "WeightTraining": {
@@ -16141,7 +16159,7 @@
       }
     }
   },
-  "generated_at": "2026-04-02T15:58:54.624416+00:00",
+  "generated_at": "2026-04-03T15:37:52.241941+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/75538698",
   "repo": "ettoretrevisiol/git-sweaty",

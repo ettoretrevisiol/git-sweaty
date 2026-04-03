@@ -11581,5 +11581,18 @@
     "start_date_local": "2026-03-31T08:25:26Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-04-03",
+    "distance": 14927.7,
+    "elevation_gain": 0.0,
+    "id": "17958461274",
+    "moving_time": 1934.0,
+    "name": "Girls got rhythm",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-03T09:15:29Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
