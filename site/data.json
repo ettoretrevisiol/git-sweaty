@@ -8027,6 +8027,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/17958461274",
       "year": 2026
+    },
+    {
+      "date": "2026-04-04",
+      "hour": 10,
+      "name": "Consuming Navigli, eating ice creams",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17975254879",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -15665,6 +15674,15 @@
           "distance": 63926.5,
           "elevation_gain": 121.0,
           "moving_time": 8419.0
+        },
+        "2026-04-04": {
+          "activity_ids": [
+            "17975254879"
+          ],
+          "count": 1,
+          "distance": 132141.0,
+          "elevation_gain": 249.0,
+          "moving_time": 16374.0
         }
       },
       "VirtualRide": {
@@ -16159,7 +16177,7 @@
       }
     }
   },
-  "generated_at": "2026-04-03T15:37:52.241941+00:00",
+  "generated_at": "2026-04-04T15:28:55.290548+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/75538698",
   "repo": "ettoretrevisiol/git-sweaty",

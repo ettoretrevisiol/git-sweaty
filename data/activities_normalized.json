@@ -11594,5 +11594,18 @@
     "start_date_local": "2026-04-03T09:15:29Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-04-04",
+    "distance": 132141.0,
+    "elevation_gain": 249.0,
+    "id": "17975254879",
+    "moving_time": 16374.0,
+    "name": "Consuming Navigli, eating ice creams",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-04T10:14:21Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
