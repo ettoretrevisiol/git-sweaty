@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-07T16:08:43.641786+00:00",
+  "generated_at": "2026-04-08T16:14:12.920462+00:00",
   "years": {
     "2021": {
       "BackcountrySki": {
@@ -8025,6 +8025,15 @@
           "distance": 14927.7,
           "elevation_gain": 0.0,
           "moving_time": 1934.0
+        },
+        "2026-04-08": {
+          "activity_ids": [
+            "18023081213"
+          ],
+          "count": 1,
+          "distance": 24306.4,
+          "elevation_gain": 0.0,
+          "moving_time": 3234.0
         }
       },
       "WeightTraining": {

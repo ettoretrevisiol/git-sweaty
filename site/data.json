@@ -8054,6 +8054,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/17998837608",
       "year": 2026
+    },
+    {
+      "date": "2026-04-08",
+      "hour": 8,
+      "name": "Heatseeker",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18023081213",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -16081,6 +16090,15 @@
           "distance": 14927.7,
           "elevation_gain": 0.0,
           "moving_time": 1934.0
+        },
+        "2026-04-08": {
+          "activity_ids": [
+            "18023081213"
+          ],
+          "count": 1,
+          "distance": 24306.4,
+          "elevation_gain": 0.0,
+          "moving_time": 3234.0
         }
       },
       "WeightTraining": {
@@ -16213,7 +16231,7 @@
       }
     }
   },
-  "generated_at": "2026-04-07T16:08:43.658099+00:00",
+  "generated_at": "2026-04-08T16:14:12.936647+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/75538698",
   "repo": "ettoretrevisiol/git-sweaty",
