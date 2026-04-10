@@ -8063,6 +8063,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/18023081213",
       "year": 2026
+    },
+    {
+      "date": "2026-04-10",
+      "hour": 8,
+      "name": "Panama",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18050048284",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -16099,6 +16108,15 @@
           "distance": 24306.4,
           "elevation_gain": 0.0,
           "moving_time": 3234.0
+        },
+        "2026-04-10": {
+          "activity_ids": [
+            "18050048284"
+          ],
+          "count": 1,
+          "distance": 14429.1,
+          "elevation_gain": 0.0,
+          "moving_time": 1986.0
         }
       },
       "WeightTraining": {
@@ -16231,7 +16249,7 @@
       }
     }
   },
-  "generated_at": "2026-04-09T16:16:11.282435+00:00",
+  "generated_at": "2026-04-10T15:50:32.988408+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/75538698",
   "repo": "ettoretrevisiol/git-sweaty",
