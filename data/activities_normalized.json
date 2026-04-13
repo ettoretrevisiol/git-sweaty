@@ -11672,5 +11672,18 @@
     "start_date_local": "2026-04-11T09:23:14Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-13",
+    "distance": 27197.3,
+    "elevation_gain": 0.0,
+    "id": "18088010539",
+    "moving_time": 3307.0,
+    "name": "Free Fallin\u2019",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-13T08:36:00Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
