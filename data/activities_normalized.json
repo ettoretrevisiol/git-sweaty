@@ -11685,5 +11685,18 @@
     "start_date_local": "2026-04-13T08:36:00Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-04-15",
+    "distance": 25451.9,
+    "elevation_gain": 0.0,
+    "id": "18114709732",
+    "moving_time": 3182.0,
+    "name": "Ruff Stuff",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-15T08:20:45Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
