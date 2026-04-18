@@ -11711,5 +11711,18 @@
     "start_date_local": "2026-04-17T08:43:30Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-04-18",
+    "distance": 94025.0,
+    "elevation_gain": 2013.0,
+    "id": "18157518399",
+    "moving_time": 16034.0,
+    "name": "Climbing season start!",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-18T09:22:24Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
