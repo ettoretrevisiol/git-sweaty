@@ -11724,5 +11724,18 @@
     "start_date_local": "2026-04-18T09:22:24Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-19",
+    "distance": 63975.4,
+    "elevation_gain": 117.0,
+    "id": "18174278463",
+    "moving_time": 8589.0,
+    "name": "Mission: Magnum Almond",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-19T14:36:32Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]

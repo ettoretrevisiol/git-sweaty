@@ -8117,6 +8117,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18157518399",
       "year": 2026
+    },
+    {
+      "date": "2026-04-19",
+      "hour": 14,
+      "name": "Mission: Magnum Almond",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18174278463",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -15791,6 +15800,15 @@
           "distance": 94025.0,
           "elevation_gain": 2013.0,
           "moving_time": 16034.0
+        },
+        "2026-04-19": {
+          "activity_ids": [
+            "18174278463"
+          ],
+          "count": 1,
+          "distance": 63975.4,
+          "elevation_gain": 117.0,
+          "moving_time": 8589.0
         }
       },
       "VirtualRide": {
@@ -16339,7 +16357,7 @@
       }
     }
   },
-  "generated_at": "2026-04-19T15:35:25.778829+00:00",
+  "generated_at": "2026-04-20T16:06:28.109138+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/75538698",
   "repo": "ettoretrevisiol/git-sweaty",
