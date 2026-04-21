@@ -11737,5 +11737,18 @@
     "start_date_local": "2026-04-19T14:36:32Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-21",
+    "distance": 26859.7,
+    "elevation_gain": 0.0,
+    "id": "18193750398",
+    "moving_time": 3309.0,
+    "name": "Bottom of the well",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-21T08:35:17Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]

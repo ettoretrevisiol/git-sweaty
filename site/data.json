@@ -8126,6 +8126,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18174278463",
       "year": 2026
+    },
+    {
+      "date": "2026-04-21",
+      "hour": 8,
+      "name": "Bottom of the well",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18193750398",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -16225,6 +16234,15 @@
           "distance": 13488.6,
           "elevation_gain": 0.0,
           "moving_time": 1805.0
+        },
+        "2026-04-21": {
+          "activity_ids": [
+            "18193750398"
+          ],
+          "count": 1,
+          "distance": 26859.7,
+          "elevation_gain": 0.0,
+          "moving_time": 3309.0
         }
       },
       "WeightTraining": {
@@ -16357,7 +16375,7 @@
       }
     }
   },
-  "generated_at": "2026-04-20T16:06:28.109138+00:00",
+  "generated_at": "2026-04-21T16:09:00.637460+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/75538698",
   "repo": "ettoretrevisiol/git-sweaty",
