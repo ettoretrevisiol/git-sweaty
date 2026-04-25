@@ -11763,5 +11763,18 @@
     "start_date_local": "2026-04-23T17:39:27Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-25",
+    "distance": 111664.0,
+    "elevation_gain": 201.0,
+    "id": "18250805479",
+    "moving_time": 13508.0,
+    "name": "Liberation day!",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-25T09:06:49Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
