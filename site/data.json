@@ -8162,6 +8162,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18281889860",
       "year": 2026
+    },
+    {
+      "date": "2026-04-29",
+      "hour": 17,
+      "name": "T-bone",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18309339370",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -15872,6 +15881,15 @@
           "distance": 52189.2,
           "elevation_gain": 59.0,
           "moving_time": 6028.0
+        },
+        "2026-04-29": {
+          "activity_ids": [
+            "18309339370"
+          ],
+          "count": 1,
+          "distance": 50492.1,
+          "elevation_gain": 69.0,
+          "moving_time": 5923.0
         }
       },
       "VirtualRide": {
@@ -16429,7 +16447,7 @@
       }
     }
   },
-  "generated_at": "2026-04-29T16:26:30.060374+00:00",
+  "generated_at": "2026-04-30T16:17:28.977236+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/75538698",
   "repo": "ettoretrevisiol/git-sweaty",
