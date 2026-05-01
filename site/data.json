@@ -8171,6 +8171,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18309339370",
       "year": 2026
+    },
+    {
+      "date": "2026-05-01",
+      "hour": 11,
+      "name": "International Workers\u2019 Day 2026",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18333150135",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -15890,6 +15899,15 @@
           "distance": 50492.1,
           "elevation_gain": 69.0,
           "moving_time": 5923.0
+        },
+        "2026-05-01": {
+          "activity_ids": [
+            "18333150135"
+          ],
+          "count": 1,
+          "distance": 100222.0,
+          "elevation_gain": 238.0,
+          "moving_time": 11458.0
         }
       },
       "VirtualRide": {
@@ -16447,7 +16465,7 @@
       }
     }
   },
-  "generated_at": "2026-04-30T16:17:28.977236+00:00",
+  "generated_at": "2026-05-01T15:55:28.539034+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/75538698",
   "repo": "ettoretrevisiol/git-sweaty",

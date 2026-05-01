@@ -11802,5 +11802,18 @@
     "start_date_local": "2026-04-29T17:50:32Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-01",
+    "distance": 100222.0,
+    "elevation_gain": 238.0,
+    "id": "18333150135",
+    "moving_time": 11458.0,
+    "name": "International Workers\u2019 Day 2026",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-01T11:50:39Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
