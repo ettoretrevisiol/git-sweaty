@@ -11815,5 +11815,18 @@
     "start_date_local": "2026-05-01T11:50:39Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-02",
+    "distance": 62437.4,
+    "elevation_gain": 114.0,
+    "id": "18344472666",
+    "moving_time": 8172.0,
+    "name": "Pacchia, caff\u00e8 e brioches",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-02T10:10:16Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
