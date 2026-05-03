@@ -11828,5 +11828,18 @@
     "start_date_local": "2026-05-02T10:10:16Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-03",
+    "distance": 96281.7,
+    "elevation_gain": 1514.0,
+    "id": "18359111698",
+    "moving_time": 14493.0,
+    "name": "Onno - Ghisallino Power",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-03T09:41:54Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
