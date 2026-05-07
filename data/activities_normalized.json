@@ -11854,5 +11854,18 @@
     "start_date_local": "2026-05-05T19:00:55Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-05-06",
+    "distance": 23995.7,
+    "elevation_gain": 0.0,
+    "id": "18402223508",
+    "moving_time": 3038.0,
+    "name": "Il Friuli ringrazia e non dimentica",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-05-06T18:49:43Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
