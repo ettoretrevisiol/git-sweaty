@@ -11880,5 +11880,18 @@
     "start_date_local": "2026-05-07T19:12:41Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-05-09",
+    "distance": 115815.0,
+    "elevation_gain": 2489.0,
+    "id": "18439300994",
+    "moving_time": 20289.0,
+    "name": "Looking for Paga",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-09T09:32:23Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]

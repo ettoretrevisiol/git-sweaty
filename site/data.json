@@ -8225,6 +8225,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/18415618610",
       "year": 2026
+    },
+    {
+      "date": "2026-05-09",
+      "hour": 9,
+      "name": "Looking for Paga",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18439300994",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -15971,6 +15980,15 @@
           "distance": 96281.7,
           "elevation_gain": 1514.0,
           "moving_time": 14493.0
+        },
+        "2026-05-09": {
+          "activity_ids": [
+            "18439300994"
+          ],
+          "count": 1,
+          "distance": 115815.0,
+          "elevation_gain": 2489.0,
+          "moving_time": 20289.0
         }
       },
       "VirtualRide": {
@@ -16555,7 +16573,7 @@
       }
     }
   },
-  "generated_at": "2026-05-08T16:11:54.602793+00:00",
+  "generated_at": "2026-05-09T15:49:28.234827+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/75538698",
   "repo": "ettoretrevisiol/git-sweaty",
