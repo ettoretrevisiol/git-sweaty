@@ -8234,6 +8234,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18439300994",
       "year": 2026
+    },
+    {
+      "date": "2026-05-10",
+      "hour": 18,
+      "name": "Because the Night",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18455454492",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -16441,6 +16450,15 @@
           "distance": 21158.3,
           "elevation_gain": 0.0,
           "moving_time": 2792.0
+        },
+        "2026-05-10": {
+          "activity_ids": [
+            "18455454492"
+          ],
+          "count": 1,
+          "distance": 21281.6,
+          "elevation_gain": 0.0,
+          "moving_time": 3018.0
         }
       },
       "WeightTraining": {
@@ -16573,7 +16591,7 @@
       }
     }
   },
-  "generated_at": "2026-05-10T15:51:07.235829+00:00",
+  "generated_at": "2026-05-11T17:22:46.883884+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/75538698",
   "repo": "ettoretrevisiol/git-sweaty",
