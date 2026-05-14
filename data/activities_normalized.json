@@ -11919,5 +11919,18 @@
     "start_date_local": "2026-05-12T20:44:50Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-05-13",
+    "distance": 64473.7,
+    "elevation_gain": 73.0,
+    "id": "18494326679",
+    "moving_time": 7664.0,
+    "name": "The Mosquinator II",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-13T18:10:20Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
