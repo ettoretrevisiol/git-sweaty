@@ -11932,5 +11932,18 @@
     "start_date_local": "2026-05-13T18:10:20Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-15",
+    "distance": 23473.6,
+    "elevation_gain": 0.0,
+    "id": "18515949912",
+    "moving_time": 2953.0,
+    "name": "She likes rock and roll",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-05-15T13:22:52Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
