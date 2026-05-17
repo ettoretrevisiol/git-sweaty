@@ -11958,5 +11958,18 @@
     "start_date_local": "2026-05-16T14:20:33Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-17",
+    "distance": 141955.0,
+    "elevation_gain": 532.0,
+    "id": "18543807714",
+    "moving_time": 17520.0,
+    "name": "I go out, to the lake",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-17T10:25:52Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
