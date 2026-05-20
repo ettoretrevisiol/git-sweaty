@@ -11971,5 +11971,18 @@
     "start_date_local": "2026-05-17T10:25:52Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-19",
+    "distance": 54539.7,
+    "elevation_gain": 65.0,
+    "id": "18572395668",
+    "moving_time": 6645.0,
+    "name": "Robecchino sunset",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-19T18:30:22Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]

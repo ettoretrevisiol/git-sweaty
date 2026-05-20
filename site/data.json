@@ -8288,6 +8288,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18543807714",
       "year": 2026
+    },
+    {
+      "date": "2026-05-19",
+      "hour": 18,
+      "name": "Robecchino sunset",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18572395668",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -16070,6 +16079,15 @@
           "distance": 141955.0,
           "elevation_gain": 532.0,
           "moving_time": 17520.0
+        },
+        "2026-05-19": {
+          "activity_ids": [
+            "18572395668"
+          ],
+          "count": 1,
+          "distance": 54539.7,
+          "elevation_gain": 65.0,
+          "moving_time": 6645.0
         }
       },
       "VirtualRide": {
@@ -16681,7 +16699,7 @@
       }
     }
   },
-  "generated_at": "2026-05-19T17:37:01.985991+00:00",
+  "generated_at": "2026-05-20T17:53:30.559088+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/75538698",
   "repo": "ettoretrevisiol/git-sweaty",
