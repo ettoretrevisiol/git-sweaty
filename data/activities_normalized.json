@@ -11984,5 +11984,18 @@
     "start_date_local": "2026-05-19T18:30:22Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-21",
+    "distance": 61370.8,
+    "elevation_gain": 95.0,
+    "id": "18598712624",
+    "moving_time": 6601.0,
+    "name": "Morimondenberg",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-21T17:58:34Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
