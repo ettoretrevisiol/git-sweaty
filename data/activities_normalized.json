@@ -11997,5 +11997,18 @@
     "start_date_local": "2026-05-21T17:58:34Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-23",
+    "distance": 143515.0,
+    "elevation_gain": 1693.0,
+    "id": "18622281194",
+    "moving_time": 21330.0,
+    "name": "Three Lakes",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-23T08:45:42Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
