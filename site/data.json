@@ -8315,6 +8315,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18622281194",
       "year": 2026
+    },
+    {
+      "date": "2026-05-24",
+      "hour": 9,
+      "name": "Navigli like Zwift!",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18631884439",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -16124,6 +16133,15 @@
           "distance": 143515.0,
           "elevation_gain": 1693.0,
           "moving_time": 21330.0
+        },
+        "2026-05-24": {
+          "activity_ids": [
+            "18631884439"
+          ],
+          "count": 1,
+          "distance": 63943.3,
+          "elevation_gain": 121.0,
+          "moving_time": 7546.0
         }
       },
       "VirtualRide": {
@@ -16735,7 +16753,7 @@
       }
     }
   },
-  "generated_at": "2026-05-23T16:00:22.880973+00:00",
+  "generated_at": "2026-05-24T15:59:40.872008+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/75538698",
   "repo": "ettoretrevisiol/git-sweaty",
