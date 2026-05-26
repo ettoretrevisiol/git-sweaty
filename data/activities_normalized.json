@@ -12023,5 +12023,18 @@
     "start_date_local": "2026-05-24T09:00:46Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-26",
+    "distance": 48967.9,
+    "elevation_gain": 40.0,
+    "id": "18657089843",
+    "moving_time": 5613.0,
+    "name": "Pre-work works mode on",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-26T06:42:16Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
