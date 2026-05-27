@@ -8333,6 +8333,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18657089843",
       "year": 2026
+    },
+    {
+      "date": "2026-05-27",
+      "hour": 6,
+      "name": "Kinder Colazione++",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18671076759",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -16160,6 +16169,15 @@
           "distance": 48967.9,
           "elevation_gain": 40.0,
           "moving_time": 5613.0
+        },
+        "2026-05-27": {
+          "activity_ids": [
+            "18671076759"
+          ],
+          "count": 1,
+          "distance": 47655.9,
+          "elevation_gain": 46.0,
+          "moving_time": 5505.0
         }
       },
       "VirtualRide": {
@@ -16771,7 +16789,7 @@
       }
     }
   },
-  "generated_at": "2026-05-26T17:55:01.032575+00:00",
+  "generated_at": "2026-05-27T17:56:10.343664+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/75538698",
   "repo": "ettoretrevisiol/git-sweaty",

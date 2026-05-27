@@ -12036,5 +12036,18 @@
     "start_date_local": "2026-05-26T06:42:16Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-27",
+    "distance": 47655.9,
+    "elevation_gain": 46.0,
+    "id": "18671076759",
+    "moving_time": 5505.0,
+    "name": "Kinder Colazione++",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-27T06:53:10Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
