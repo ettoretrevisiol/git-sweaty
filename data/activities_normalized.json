@@ -12049,5 +12049,18 @@
     "start_date_local": "2026-05-27T06:53:10Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-29",
+    "distance": 88390.3,
+    "elevation_gain": 1598.0,
+    "id": "18701698149",
+    "moving_time": 14743.0,
+    "name": "AWSome day in Valcava",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-29T09:13:32Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
