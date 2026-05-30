@@ -8351,6 +8351,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18701698149",
       "year": 2026
+    },
+    {
+      "date": "2026-05-30",
+      "hour": 8,
+      "name": "Pre Tappone Friulano \ud83d\ude0d",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18711937959",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -16196,6 +16205,15 @@
           "distance": 88390.3,
           "elevation_gain": 1598.0,
           "moving_time": 14743.0
+        },
+        "2026-05-30": {
+          "activity_ids": [
+            "18711937959"
+          ],
+          "count": 1,
+          "distance": 63333.2,
+          "elevation_gain": 103.0,
+          "moving_time": 8107.0
         }
       },
       "VirtualRide": {
@@ -16807,7 +16825,7 @@
       }
     }
   },
-  "generated_at": "2026-05-29T18:11:20.570239+00:00",
+  "generated_at": "2026-05-30T16:02:59.455506+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/75538698",
   "repo": "ettoretrevisiol/git-sweaty",

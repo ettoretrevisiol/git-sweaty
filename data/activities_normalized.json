@@ -12062,5 +12062,18 @@
     "start_date_local": "2026-05-29T09:13:32Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-30",
+    "distance": 63333.2,
+    "elevation_gain": 103.0,
+    "id": "18711937959",
+    "moving_time": 8107.0,
+    "name": "Pre Tappone Friulano \ud83d\ude0d",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-30T08:21:30Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
