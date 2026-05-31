@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-30T16:02:59.439306+00:00",
+  "generated_at": "2026-05-31T16:04:39.161166+00:00",
   "years": {
     "2021": {
       "BackcountrySki": {
@@ -7852,6 +7852,15 @@
           "distance": 63333.2,
           "elevation_gain": 103.0,
           "moving_time": 8107.0
+        },
+        "2026-05-31": {
+          "activity_ids": [
+            "18726640484"
+          ],
+          "count": 1,
+          "distance": 95824.0,
+          "elevation_gain": 182.0,
+          "moving_time": 11363.0
         }
       },
       "VirtualRide": {

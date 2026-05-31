@@ -12075,5 +12075,18 @@
     "start_date_local": "2026-05-30T08:21:30Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-31",
+    "distance": 95824.0,
+    "elevation_gain": 182.0,
+    "id": "18726640484",
+    "moving_time": 11363.0,
+    "name": "Cochino al binda, back for brunch",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-31T08:41:53Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
