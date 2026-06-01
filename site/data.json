@@ -8369,6 +8369,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18726640484",
       "year": 2026
+    },
+    {
+      "date": "2026-06-01",
+      "hour": 7,
+      "name": "Pre-flight",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18737977604",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -16232,6 +16241,15 @@
           "distance": 95824.0,
           "elevation_gain": 182.0,
           "moving_time": 11363.0
+        },
+        "2026-06-01": {
+          "activity_ids": [
+            "18737977604"
+          ],
+          "count": 1,
+          "distance": 36834.6,
+          "elevation_gain": 27.0,
+          "moving_time": 4540.0
         }
       },
       "VirtualRide": {
@@ -16843,7 +16861,7 @@
       }
     }
   },
-  "generated_at": "2026-05-31T16:04:39.177774+00:00",
+  "generated_at": "2026-06-01T19:54:20.596719+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/75538698",
   "repo": "ettoretrevisiol/git-sweaty",
