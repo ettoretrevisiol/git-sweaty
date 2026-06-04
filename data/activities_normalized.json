@@ -12101,5 +12101,18 @@
     "start_date_local": "2026-06-01T07:23:01Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-04",
+    "distance": 40221.9,
+    "elevation_gain": 49.0,
+    "id": "18779138284",
+    "moving_time": 4504.0,
+    "name": "After-flight, pre-train",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-04T05:54:55Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
