@@ -8405,6 +8405,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18824403620",
       "year": 2026
+    },
+    {
+      "date": "2026-06-09",
+      "hour": 6,
+      "name": "First aid \ud83d\ude14",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18846477931",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -16304,6 +16313,15 @@
           "distance": 103037.0,
           "elevation_gain": 1657.0,
           "moving_time": 17472.0
+        },
+        "2026-06-09": {
+          "activity_ids": [
+            "18846477931"
+          ],
+          "count": 1,
+          "distance": 52466.7,
+          "elevation_gain": 58.0,
+          "moving_time": 6066.0
         }
       },
       "VirtualRide": {
@@ -16915,7 +16933,7 @@
       }
     }
   },
-  "generated_at": "2026-06-08T17:50:07.194170+00:00",
+  "generated_at": "2026-06-09T17:23:31.228236+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/75538698",
   "repo": "ettoretrevisiol/git-sweaty",

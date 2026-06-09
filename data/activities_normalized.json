@@ -12140,5 +12140,18 @@
     "start_date_local": "2026-06-07T09:15:18Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-09",
+    "distance": 52466.7,
+    "elevation_gain": 58.0,
+    "id": "18846477931",
+    "moving_time": 6066.0,
+    "name": "First aid \ud83d\ude14",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-09T06:37:47Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
