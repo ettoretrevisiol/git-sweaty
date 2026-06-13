@@ -8423,6 +8423,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18881437116",
       "year": 2026
+    },
+    {
+      "date": "2026-06-13",
+      "hour": 8,
+      "name": "Alla Mecca del Panno",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18901365133",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -16340,6 +16349,15 @@
           "distance": 51724.0,
           "elevation_gain": 64.0,
           "moving_time": 5968.0
+        },
+        "2026-06-13": {
+          "activity_ids": [
+            "18901365133"
+          ],
+          "count": 1,
+          "distance": 103841.0,
+          "elevation_gain": 218.0,
+          "moving_time": 12318.0
         }
       },
       "VirtualRide": {
@@ -16951,7 +16969,7 @@
       }
     }
   },
-  "generated_at": "2026-06-12T17:35:42.062942+00:00",
+  "generated_at": "2026-06-13T17:48:42.914265+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/75538698",
   "repo": "ettoretrevisiol/git-sweaty",
