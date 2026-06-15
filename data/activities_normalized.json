@@ -12179,5 +12179,18 @@
     "start_date_local": "2026-06-13T08:21:34Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-14",
+    "distance": 106043.0,
+    "elevation_gain": 2001.0,
+    "id": "18918255010",
+    "moving_time": 18362.0,
+    "name": "Mottarone mangia e bevi",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-14T08:43:59Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
