@@ -8441,6 +8441,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18918255010",
       "year": 2026
+    },
+    {
+      "date": "2026-06-16",
+      "hour": 6,
+      "name": "Caravans",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18938766163",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -16376,6 +16385,15 @@
           "distance": 106043.0,
           "elevation_gain": 2001.0,
           "moving_time": 18362.0
+        },
+        "2026-06-16": {
+          "activity_ids": [
+            "18938766163"
+          ],
+          "count": 1,
+          "distance": 44365.7,
+          "elevation_gain": 43.0,
+          "moving_time": 5024.0
         }
       },
       "VirtualRide": {
@@ -16987,7 +17005,7 @@
       }
     }
   },
-  "generated_at": "2026-06-15T19:02:12.874981+00:00",
+  "generated_at": "2026-06-16T18:54:03.223481+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/75538698",
   "repo": "ettoretrevisiol/git-sweaty",
