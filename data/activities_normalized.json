@@ -12205,5 +12205,18 @@
     "start_date_local": "2026-06-16T06:38:32Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-18",
+    "distance": 44009.2,
+    "elevation_gain": 39.0,
+    "id": "18967627242",
+    "moving_time": 5046.0,
+    "name": "Panarello Private Equity",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-18T07:16:38Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]

@@ -8450,6 +8450,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18938766163",
       "year": 2026
+    },
+    {
+      "date": "2026-06-18",
+      "hour": 7,
+      "name": "Panarello Private Equity",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18967627242",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -16394,6 +16403,15 @@
           "distance": 44365.7,
           "elevation_gain": 43.0,
           "moving_time": 5024.0
+        },
+        "2026-06-18": {
+          "activity_ids": [
+            "18967627242"
+          ],
+          "count": 1,
+          "distance": 44009.2,
+          "elevation_gain": 39.0,
+          "moving_time": 5046.0
         }
       },
       "VirtualRide": {
@@ -17005,7 +17023,7 @@
       }
     }
   },
-  "generated_at": "2026-06-17T17:48:16.628362+00:00",
+  "generated_at": "2026-06-18T17:57:43.194329+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/75538698",
   "repo": "ettoretrevisiol/git-sweaty",
