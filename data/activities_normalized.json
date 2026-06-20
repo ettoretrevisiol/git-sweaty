@@ -12218,5 +12218,18 @@
     "start_date_local": "2026-06-18T07:16:38Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-20",
+    "distance": 94148.9,
+    "elevation_gain": 1899.0,
+    "id": "18994588642",
+    "moving_time": 15731.0,
+    "name": "Breakfasts at the Lake",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-20T07:11:06Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
