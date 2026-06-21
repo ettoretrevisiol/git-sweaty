@@ -12231,5 +12231,18 @@
     "start_date_local": "2026-06-20T07:11:06Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-21",
+    "distance": 104970.0,
+    "elevation_gain": 1271.0,
+    "id": "19009106856",
+    "moving_time": 15977.0,
+    "name": "A me mi garba il lago",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-21T08:17:16Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
