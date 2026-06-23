@@ -12244,5 +12244,18 @@
     "start_date_local": "2026-06-21T08:17:16Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-23",
+    "distance": 40300.7,
+    "elevation_gain": 34.0,
+    "id": "19031431712",
+    "moving_time": 4511.0,
+    "name": "Neck warmer required",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-23T07:05:31Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
