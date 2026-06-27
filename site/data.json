@@ -8495,6 +8495,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/19058104800",
       "year": 2026
+    },
+    {
+      "date": "2026-06-27",
+      "hour": 7,
+      "name": "Runnin\u2019 Down A Dream",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19085357232",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -16484,6 +16493,15 @@
           "distance": 40249.7,
           "elevation_gain": 34.0,
           "moving_time": 4753.0
+        },
+        "2026-06-27": {
+          "activity_ids": [
+            "19085357232"
+          ],
+          "count": 1,
+          "distance": 119541.0,
+          "elevation_gain": 3297.0,
+          "moving_time": 23635.0
         }
       },
       "VirtualRide": {
@@ -17095,7 +17113,7 @@
       }
     }
   },
-  "generated_at": "2026-06-26T16:58:52.819846+00:00",
+  "generated_at": "2026-06-27T16:02:30.384694+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/75538698",
   "repo": "ettoretrevisiol/git-sweaty",
