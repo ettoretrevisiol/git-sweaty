@@ -12283,5 +12283,18 @@
     "start_date_local": "2026-06-27T07:06:49Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-28",
+    "distance": 44745.8,
+    "elevation_gain": 945.0,
+    "id": "19094677896",
+    "moving_time": 7716.0,
+    "name": "Three mini lakes coffee ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-28T07:38:52Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
