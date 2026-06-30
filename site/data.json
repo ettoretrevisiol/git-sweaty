@@ -16509,8 +16509,8 @@
           ],
           "count": 1,
           "distance": 119541.0,
-          "elevation_gain": 3297.0,
-          "moving_time": 23635.0
+          "elevation_gain": 3497.5,
+          "moving_time": 23636.0
         },
         "2026-06-28": {
           "activity_ids": [
@@ -17131,7 +17131,7 @@
       }
     }
   },
-  "generated_at": "2026-06-29T17:33:26.107839+00:00",
+  "generated_at": "2026-06-30T17:04:47.056572+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/75538698",
   "repo": "ettoretrevisiol/git-sweaty",
