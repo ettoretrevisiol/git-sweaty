@@ -8549,6 +8549,15 @@
       "type": "Ride",
       "url": "https://connect.garmin.com/modern/activity/23538538776",
       "year": 2026
+    },
+    {
+      "date": "2026-07-11",
+      "hour": 8,
+      "name": "Pian de Menis - Nuvolau",
+      "subtype": "hiking",
+      "type": "Hike",
+      "url": "https://connect.garmin.com/modern/activity/23556958255",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -16045,6 +16054,15 @@
           "distance": 10785.7998046875,
           "elevation_gain": 501.97000002861023,
           "moving_time": 9104.0
+        },
+        "2026-07-11": {
+          "activity_ids": [
+            "23556958255"
+          ],
+          "count": 1,
+          "distance": 8071.85009765625,
+          "elevation_gain": 644.3600000143051,
+          "moving_time": 9755.0
         }
       },
       "Ride": {
@@ -17229,7 +17247,7 @@
       }
     }
   },
-  "generated_at": "2026-07-11T08:46:27.321015+00:00",
+  "generated_at": "2026-07-11T15:52:13.877081+00:00",
   "other_bucket": "OtherSports",
   "repo": "ettoretrevisiol/git-sweaty",
   "source": "garmin",
