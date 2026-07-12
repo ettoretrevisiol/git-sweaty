@@ -12361,5 +12361,18 @@
     "start_date_local": "2026-07-11T08:35:28",
     "type": "Hike",
     "year": 2026
+  },
+  {
+    "date": "2026-07-12",
+    "distance": 106135.9375,
+    "elevation_gain": 2910.0,
+    "id": "23570316392",
+    "moving_time": 20714.186065673828,
+    "name": "Cortina - Giau - Falzarego - Tre Croci - Cimabanche",
+    "raw_activity_type": "road_biking",
+    "raw_type": "road_biking",
+    "start_date_local": "2026-07-12T08:22:38",
+    "type": "Ride",
+    "year": 2026
   }
 ]

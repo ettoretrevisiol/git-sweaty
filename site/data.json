@@ -8558,6 +8558,15 @@
       "type": "Hike",
       "url": "https://connect.garmin.com/modern/activity/23556958255",
       "year": 2026
+    },
+    {
+      "date": "2026-07-12",
+      "hour": 8,
+      "name": "Cortina - Giau - Falzarego - Tre Croci - Cimabanche",
+      "subtype": "road_biking",
+      "type": "Ride",
+      "url": "https://connect.garmin.com/modern/activity/23570316392",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -16551,6 +16560,15 @@
           "distance": 33251.671875,
           "elevation_gain": 449.0,
           "moving_time": 4311.985992431641
+        },
+        "2026-07-12": {
+          "activity_ids": [
+            "23570316392"
+          ],
+          "count": 1,
+          "distance": 106135.9375,
+          "elevation_gain": 2910.0,
+          "moving_time": 20714.186065673828
         }
       },
       "VirtualRide": {
@@ -17247,7 +17265,7 @@
       }
     }
   },
-  "generated_at": "2026-07-12T09:02:03.732798+00:00",
+  "generated_at": "2026-07-12T15:56:15.057449+00:00",
   "other_bucket": "OtherSports",
   "repo": "ettoretrevisiol/git-sweaty",
   "source": "garmin",
