@@ -8567,6 +8567,15 @@
       "type": "Ride",
       "url": "https://connect.garmin.com/modern/activity/23570316392",
       "year": 2026
+    },
+    {
+      "date": "2026-07-15",
+      "hour": 7,
+      "name": "Milano - Abbiategrasso",
+      "subtype": "road_biking",
+      "type": "Ride",
+      "url": "https://connect.garmin.com/modern/activity/23602986808",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -16569,6 +16578,15 @@
           "distance": 106135.9375,
           "elevation_gain": 2910.0,
           "moving_time": 20714.186065673828
+        },
+        "2026-07-15": {
+          "activity_ids": [
+            "23602986808"
+          ],
+          "count": 1,
+          "distance": 40664.69921875,
+          "elevation_gain": 40.0,
+          "moving_time": 4690.085998535156
         }
       },
       "VirtualRide": {
@@ -17265,7 +17283,7 @@
       }
     }
   },
-  "generated_at": "2026-07-15T06:10:58.346660+00:00",
+  "generated_at": "2026-07-15T09:09:07.053954+00:00",
   "other_bucket": "OtherSports",
   "repo": "ettoretrevisiol/git-sweaty",
   "source": "garmin",
