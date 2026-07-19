@@ -12400,5 +12400,18 @@
     "start_date_local": "2026-07-18T07:25:16",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-07-19",
+    "distance": 111561.0703125,
+    "elevation_gain": 1806.0,
+    "id": "23652925081",
+    "moving_time": 17516.324005126953,
+    "name": "Como - Balcone - Lugano",
+    "raw_activity_type": "road_biking",
+    "raw_type": "road_biking",
+    "start_date_local": "2026-07-19T07:46:46",
+    "type": "Ride",
+    "year": 2026
   }
 ]

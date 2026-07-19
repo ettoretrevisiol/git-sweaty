@@ -8585,6 +8585,15 @@
       "type": "Ride",
       "url": "https://connect.garmin.com/modern/activity/23639549148",
       "year": 2026
+    },
+    {
+      "date": "2026-07-19",
+      "hour": 7,
+      "name": "Como - Balcone - Lugano",
+      "subtype": "road_biking",
+      "type": "Ride",
+      "url": "https://connect.garmin.com/modern/activity/23652925081",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -16605,6 +16614,15 @@
           "distance": 100210.5,
           "elevation_gain": 161.0,
           "moving_time": 11855.182983398438
+        },
+        "2026-07-19": {
+          "activity_ids": [
+            "23652925081"
+          ],
+          "count": 1,
+          "distance": 111561.0703125,
+          "elevation_gain": 1806.0,
+          "moving_time": 17516.324005126953
         }
       },
       "VirtualRide": {
@@ -17301,7 +17319,7 @@
       }
     }
   },
-  "generated_at": "2026-07-19T09:04:41.549980+00:00",
+  "generated_at": "2026-07-19T15:54:16.680319+00:00",
   "other_bucket": "OtherSports",
   "repo": "ettoretrevisiol/git-sweaty",
   "source": "garmin",
