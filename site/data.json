@@ -8594,6 +8594,15 @@
       "type": "Ride",
       "url": "https://connect.garmin.com/modern/activity/23652925081",
       "year": 2026
+    },
+    {
+      "date": "2026-07-21",
+      "hour": 7,
+      "name": "Milano - Cassinetta",
+      "subtype": "road_biking",
+      "type": "Ride",
+      "url": "https://connect.garmin.com/modern/activity/23673393484",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -16623,6 +16632,15 @@
           "distance": 111561.0703125,
           "elevation_gain": 1806.0,
           "moving_time": 17516.324005126953
+        },
+        "2026-07-21": {
+          "activity_ids": [
+            "23673393484"
+          ],
+          "count": 1,
+          "distance": 44331.16015625,
+          "elevation_gain": 62.0,
+          "moving_time": 5186.8330078125
         }
       },
       "VirtualRide": {
@@ -17319,7 +17337,7 @@
       }
     }
   },
-  "generated_at": "2026-07-21T06:24:47.111303+00:00",
+  "generated_at": "2026-07-21T09:26:50.787926+00:00",
   "other_bucket": "OtherSports",
   "repo": "ettoretrevisiol/git-sweaty",
   "source": "garmin",
