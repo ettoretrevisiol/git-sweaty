@@ -8603,6 +8603,15 @@
       "type": "Ride",
       "url": "https://connect.garmin.com/modern/activity/23673393484",
       "year": 2026
+    },
+    {
+      "date": "2026-07-23",
+      "hour": 7,
+      "name": "Milan Road Cycling",
+      "subtype": "road_biking",
+      "type": "Ride",
+      "url": "https://connect.garmin.com/modern/activity/23699203621",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -16641,6 +16650,15 @@
           "distance": 44331.16015625,
           "elevation_gain": 62.0,
           "moving_time": 5186.8330078125
+        },
+        "2026-07-23": {
+          "activity_ids": [
+            "23699203621"
+          ],
+          "count": 1,
+          "distance": 40502.05859375,
+          "elevation_gain": 42.0,
+          "moving_time": 4591.8780517578125
         }
       },
       "VirtualRide": {
@@ -17337,7 +17355,7 @@
       }
     }
   },
-  "generated_at": "2026-07-23T06:26:52.980162+00:00",
+  "generated_at": "2026-07-23T11:41:16.450203+00:00",
   "other_bucket": "OtherSports",
   "repo": "ettoretrevisiol/git-sweaty",
   "source": "garmin",

@@ -12426,5 +12426,18 @@
     "start_date_local": "2026-07-21T07:01:42",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-07-23",
+    "distance": 40502.05859375,
+    "elevation_gain": 42.0,
+    "id": "23699203621",
+    "moving_time": 4591.8780517578125,
+    "name": "Milan Road Cycling",
+    "raw_activity_type": "road_biking",
+    "raw_type": "road_biking",
+    "start_date_local": "2026-07-23T07:20:38",
+    "type": "Ride",
+    "year": 2026
   }
 ]
