@@ -8607,7 +8607,7 @@
     {
       "date": "2026-07-23",
       "hour": 7,
-      "name": "Milan Road Cycling",
+      "name": "Milano - Abbiategrasso",
       "subtype": "road_biking",
       "type": "Ride",
       "url": "https://connect.garmin.com/modern/activity/23699203621",
@@ -17355,7 +17355,7 @@
       }
     }
   },
-  "generated_at": "2026-07-23T11:46:02.471434+00:00",
+  "generated_at": "2026-07-24T06:22:03.321177+00:00",
   "other_bucket": "OtherSports",
   "repo": "ettoretrevisiol/git-sweaty",
   "source": "garmin",
