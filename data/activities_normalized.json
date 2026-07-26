@@ -12439,5 +12439,18 @@
     "start_date_local": "2026-07-23T07:20:38",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-07-25",
+    "distance": 94328.40625,
+    "elevation_gain": 1929.0,
+    "id": "23724892894",
+    "moving_time": 14890.891052246094,
+    "name": "Como - Nesso - Ghisallino Power",
+    "raw_activity_type": "road_biking",
+    "raw_type": "road_biking",
+    "start_date_local": "2026-07-25T07:42:28",
+    "type": "Ride",
+    "year": 2026
   }
 ]

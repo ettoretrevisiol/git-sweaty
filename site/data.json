@@ -8612,6 +8612,15 @@
       "type": "Ride",
       "url": "https://connect.garmin.com/modern/activity/23699203621",
       "year": 2026
+    },
+    {
+      "date": "2026-07-25",
+      "hour": 7,
+      "name": "Como - Nesso - Ghisallino Power",
+      "subtype": "road_biking",
+      "type": "Ride",
+      "url": "https://connect.garmin.com/modern/activity/23724892894",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -16659,6 +16668,15 @@
           "distance": 40502.05859375,
           "elevation_gain": 42.0,
           "moving_time": 4591.8780517578125
+        },
+        "2026-07-25": {
+          "activity_ids": [
+            "23724892894"
+          ],
+          "count": 1,
+          "distance": 94328.40625,
+          "elevation_gain": 1929.0,
+          "moving_time": 14890.891052246094
         }
       },
       "VirtualRide": {
@@ -17355,7 +17373,7 @@
       }
     }
   },
-  "generated_at": "2026-07-25T06:12:46.273143+00:00",
+  "generated_at": "2026-07-26T06:32:32.690801+00:00",
   "other_bucket": "OtherSports",
   "repo": "ettoretrevisiol/git-sweaty",
   "source": "garmin",
