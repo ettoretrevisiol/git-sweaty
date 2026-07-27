@@ -12452,5 +12452,18 @@
     "start_date_local": "2026-07-25T07:42:28",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-07-26",
+    "distance": 82981.21875,
+    "elevation_gain": 135.0,
+    "id": "23737517606",
+    "moving_time": 10022.486938476562,
+    "name": "Milano - Bereguardo - Abbiategrasso",
+    "raw_activity_type": "road_biking",
+    "raw_type": "road_biking",
+    "start_date_local": "2026-07-26T09:31:42",
+    "type": "Ride",
+    "year": 2026
   }
 ]
