@@ -12478,5 +12478,18 @@
     "start_date_local": "2026-07-28T07:03:05",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-07-31",
+    "distance": 105834.0625,
+    "elevation_gain": 2837.0,
+    "id": "23799499959",
+    "moving_time": 19613.999938964844,
+    "name": "Cortina - Valparola - Gardena - Campolongo - Falzarego",
+    "raw_activity_type": "road_biking",
+    "raw_type": "road_biking",
+    "start_date_local": "2026-07-31T07:39:10",
+    "type": "Ride",
+    "year": 2026
   }
 ]
