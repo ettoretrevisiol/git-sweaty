@@ -12491,5 +12491,18 @@
     "start_date_local": "2026-07-31T07:39:10",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-08-01",
+    "distance": 10922.6796875,
+    "elevation_gain": 516.109999999404,
+    "id": "23810219676",
+    "moving_time": 7993.0,
+    "name": "Alver\u00e0- Mietres - Chiamulera",
+    "raw_activity_type": "hiking",
+    "raw_type": "hiking",
+    "start_date_local": "2026-08-01T09:39:59",
+    "type": "Hike",
+    "year": 2026
   }
 ]
