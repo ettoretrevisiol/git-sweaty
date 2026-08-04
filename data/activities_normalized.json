@@ -12517,5 +12517,18 @@
     "start_date_local": "2026-08-02T08:49:18",
     "type": "Hike",
     "year": 2026
+  },
+  {
+    "date": "2026-08-03",
+    "distance": 100589.453125,
+    "elevation_gain": 2655.0,
+    "id": "23835130056",
+    "moving_time": 18850.251983642578,
+    "name": "Cortina - Giau - Valparola - Tre Croci - Cimabanche",
+    "raw_activity_type": "road_biking",
+    "raw_type": "road_biking",
+    "start_date_local": "2026-08-03T07:55:53",
+    "type": "Ride",
+    "year": 2026
   }
 ]
