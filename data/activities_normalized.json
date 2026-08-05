@@ -12530,5 +12530,18 @@
     "start_date_local": "2026-08-03T07:55:53",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-08-04",
+    "distance": 9582.2802734375,
+    "elevation_gain": 269.77999997138977,
+    "id": "23848843071",
+    "moving_time": 5755.0,
+    "name": "Cascate di Fanes",
+    "raw_activity_type": "hiking",
+    "raw_type": "hiking",
+    "start_date_local": "2026-08-04T08:33:54",
+    "type": "Hike",
+    "year": 2026
   }
 ]

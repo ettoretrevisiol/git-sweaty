@@ -8675,6 +8675,15 @@
       "type": "Ride",
       "url": "https://connect.garmin.com/modern/activity/23835130056",
       "year": 2026
+    },
+    {
+      "date": "2026-08-04",
+      "hour": 8,
+      "name": "Cascate di Fanes",
+      "subtype": "hiking",
+      "type": "Hike",
+      "url": "https://connect.garmin.com/modern/activity/23848843071",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -16198,6 +16207,15 @@
           "distance": 14810.8203125,
           "elevation_gain": 808.0299999993294,
           "moving_time": 12562.0
+        },
+        "2026-08-04": {
+          "activity_ids": [
+            "23848843071"
+          ],
+          "count": 1,
+          "distance": 9582.2802734375,
+          "elevation_gain": 269.77999997138977,
+          "moving_time": 5755.0
         }
       },
       "Ride": {
@@ -17481,7 +17499,7 @@
       }
     }
   },
-  "generated_at": "2026-08-04T06:23:31.106402+00:00",
+  "generated_at": "2026-08-05T06:23:32.030569+00:00",
   "other_bucket": "OtherSports",
   "repo": "ettoretrevisiol/git-sweaty",
   "source": "garmin",
