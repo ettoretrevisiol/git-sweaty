@@ -12538,10 +12538,10 @@
     "id": "23848843071",
     "moving_time": 5755.0,
     "name": "Cascate di Fanes",
-    "raw_activity_type": "hiking",
-    "raw_type": "hiking",
+    "raw_activity_type": "mountaineering",
+    "raw_type": "mountaineering",
     "start_date_local": "2026-08-04T08:33:54",
-    "type": "Hike",
+    "type": "mountaineering",
     "year": 2026
   },
   {
@@ -12568,6 +12568,19 @@
     "raw_type": "road_biking",
     "start_date_local": "2026-08-06T07:36:20",
     "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-07",
+    "distance": 9588.23046875,
+    "elevation_gain": 684.6999999880791,
+    "id": "23885564440",
+    "moving_time": 8406.0,
+    "name": "Pian de Menis - Nuvolau - Col Gallina",
+    "raw_activity_type": "hiking",
+    "raw_type": "hiking",
+    "start_date_local": "2026-08-07T08:29:15",
+    "type": "Hike",
     "year": 2026
   }
 ]

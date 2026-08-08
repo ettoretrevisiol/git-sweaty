@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T05:36:29.217306+00:00",
+  "generated_at": "2026-08-08T04:51:56.543545+00:00",
   "years": {
     "2021": {
       "Run": {
@@ -7522,15 +7522,6 @@
           "elevation_gain": 808.0299999993294,
           "moving_time": 12562.0
         },
-        "2026-08-04": {
-          "activity_ids": [
-            "23848843071"
-          ],
-          "count": 1,
-          "distance": 9582.2802734375,
-          "elevation_gain": 269.77999997138977,
-          "moving_time": 5755.0
-        },
         "2026-08-05": {
           "activity_ids": [
             "23862130727"
@@ -7539,6 +7530,15 @@
           "distance": 4360.419921875,
           "elevation_gain": 318.8299999833107,
           "moving_time": 2332.0
+        },
+        "2026-08-07": {
+          "activity_ids": [
+            "23885564440"
+          ],
+          "count": 1,
+          "distance": 9588.23046875,
+          "elevation_gain": 684.6999999880791,
+          "moving_time": 8406.0
         }
       },
       "Ride": {
@@ -8762,6 +8762,17 @@
           "distance": 10170.1298828125,
           "elevation_gain": 792.7699999809265,
           "moving_time": 7709.0
+        }
+      },
+      "mountaineering": {
+        "2026-08-04": {
+          "activity_ids": [
+            "23848843071"
+          ],
+          "count": 1,
+          "distance": 9582.2802734375,
+          "elevation_gain": 269.77999997138977,
+          "moving_time": 5755.0
         }
       },
       "resort_skiing": {

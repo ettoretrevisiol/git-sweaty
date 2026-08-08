@@ -8680,8 +8680,8 @@
       "date": "2026-08-04",
       "hour": 8,
       "name": "Cascate di Fanes",
-      "subtype": "hiking",
-      "type": "Hike",
+      "subtype": "mountaineering",
+      "type": "mountaineering",
       "url": "https://connect.garmin.com/modern/activity/23848843071",
       "year": 2026
     },
@@ -8701,6 +8701,15 @@
       "subtype": "road_biking",
       "type": "Ride",
       "url": "https://connect.garmin.com/modern/activity/23872904989",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-07",
+      "hour": 8,
+      "name": "Pian de Menis - Nuvolau - Col Gallina",
+      "subtype": "hiking",
+      "type": "Hike",
+      "url": "https://connect.garmin.com/modern/activity/23885564440",
       "year": 2026
     }
   ],
@@ -16226,15 +16235,6 @@
           "elevation_gain": 808.0299999993294,
           "moving_time": 12562.0
         },
-        "2026-08-04": {
-          "activity_ids": [
-            "23848843071"
-          ],
-          "count": 1,
-          "distance": 9582.2802734375,
-          "elevation_gain": 269.77999997138977,
-          "moving_time": 5755.0
-        },
         "2026-08-05": {
           "activity_ids": [
             "23862130727"
@@ -16243,6 +16243,15 @@
           "distance": 4360.419921875,
           "elevation_gain": 318.8299999833107,
           "moving_time": 2332.0
+        },
+        "2026-08-07": {
+          "activity_ids": [
+            "23885564440"
+          ],
+          "count": 1,
+          "distance": 9588.23046875,
+          "elevation_gain": 684.6999999880791,
+          "moving_time": 8406.0
         }
       },
       "Ride": {
@@ -17468,6 +17477,17 @@
           "moving_time": 7709.0
         }
       },
+      "mountaineering": {
+        "2026-08-04": {
+          "activity_ids": [
+            "23848843071"
+          ],
+          "count": 1,
+          "distance": 9582.2802734375,
+          "elevation_gain": 269.77999997138977,
+          "moving_time": 5755.0
+        }
+      },
       "resort_skiing": {
         "2026-01-02": {
           "activity_ids": [
@@ -17535,7 +17555,7 @@
       }
     }
   },
-  "generated_at": "2026-08-07T05:36:29.234917+00:00",
+  "generated_at": "2026-08-08T04:51:56.554667+00:00",
   "other_bucket": "OtherSports",
   "repo": "ettoretrevisiol/git-sweaty",
   "source": "garmin",
