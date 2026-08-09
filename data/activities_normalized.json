@@ -12582,5 +12582,18 @@
     "start_date_local": "2026-08-07T08:29:15",
     "type": "Hike",
     "year": 2026
+  },
+  {
+    "date": "2026-08-08",
+    "distance": 4807.08984375,
+    "elevation_gain": 299.3799999952316,
+    "id": "23899164163",
+    "moving_time": 4162.0,
+    "name": "Ra Pegna",
+    "raw_activity_type": "mountaineering",
+    "raw_type": "mountaineering",
+    "start_date_local": "2026-08-08T09:00:29",
+    "type": "mountaineering",
+    "year": 2026
   }
 ]
