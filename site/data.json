@@ -8720,6 +8720,15 @@
       "type": "mountaineering",
       "url": "https://connect.garmin.com/modern/activity/23899164163",
       "year": 2026
+    },
+    {
+      "date": "2026-08-09",
+      "hour": 7,
+      "name": "Cortina - Falzarego - Valparola - Gardena - Sella - Pordoi - Giau",
+      "subtype": "road_biking",
+      "type": "Ride",
+      "url": "https://connect.garmin.com/modern/activity/23912303030",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -16857,6 +16866,15 @@
           "distance": 109356.8984375,
           "elevation_gain": 2003.0,
           "moving_time": 16706.26007080078
+        },
+        "2026-08-09": {
+          "activity_ids": [
+            "23912303030"
+          ],
+          "count": 1,
+          "distance": 130825.671875,
+          "elevation_gain": 3812.0,
+          "moving_time": 25254.772979736328
         }
       },
       "VirtualRide": {
@@ -17573,7 +17591,7 @@
       }
     }
   },
-  "generated_at": "2026-08-09T04:59:28.241435+00:00",
+  "generated_at": "2026-08-10T05:21:46.778558+00:00",
   "other_bucket": "OtherSports",
   "repo": "ettoretrevisiol/git-sweaty",
   "source": "garmin",
