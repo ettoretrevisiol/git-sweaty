@@ -8729,6 +8729,15 @@
       "type": "Ride",
       "url": "https://connect.garmin.com/modern/activity/23912303030",
       "year": 2026
+    },
+    {
+      "date": "2026-08-10",
+      "hour": 8,
+      "name": "Ra Stua - Fosses - Sennes - Fodara",
+      "subtype": "hiking",
+      "type": "Hike",
+      "url": "https://connect.garmin.com/modern/activity/23924187298",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -16270,6 +16279,15 @@
           "distance": 9588.23046875,
           "elevation_gain": 684.6999999880791,
           "moving_time": 8406.0
+        },
+        "2026-08-10": {
+          "activity_ids": [
+            "23924187298"
+          ],
+          "count": 1,
+          "distance": 15663.240234375,
+          "elevation_gain": 714.6999999880791,
+          "moving_time": 12133.0
         }
       },
       "Ride": {
@@ -17591,7 +17609,7 @@
       }
     }
   },
-  "generated_at": "2026-08-10T05:21:46.778558+00:00",
+  "generated_at": "2026-08-11T05:02:40.514268+00:00",
   "other_bucket": "OtherSports",
   "repo": "ettoretrevisiol/git-sweaty",
   "source": "garmin",

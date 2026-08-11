@@ -12608,5 +12608,18 @@
     "start_date_local": "2026-08-09T07:27:27",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-08-10",
+    "distance": 15663.240234375,
+    "elevation_gain": 714.6999999880791,
+    "id": "23924187298",
+    "moving_time": 12133.0,
+    "name": "Ra Stua - Fosses - Sennes - Fodara",
+    "raw_activity_type": "hiking",
+    "raw_type": "hiking",
+    "start_date_local": "2026-08-10T08:58:35",
+    "type": "Hike",
+    "year": 2026
   }
 ]
