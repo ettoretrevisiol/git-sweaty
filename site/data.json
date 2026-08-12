@@ -8738,6 +8738,15 @@
       "type": "Hike",
       "url": "https://connect.garmin.com/modern/activity/23924187298",
       "year": 2026
+    },
+    {
+      "date": "2026-08-11",
+      "hour": 8,
+      "name": "Cortina - San Candido - Misurina",
+      "subtype": "road_biking",
+      "type": "Ride",
+      "url": "https://connect.garmin.com/modern/activity/23933657597",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -16893,6 +16902,15 @@
           "distance": 130825.671875,
           "elevation_gain": 3812.0,
           "moving_time": 25254.772979736328
+        },
+        "2026-08-11": {
+          "activity_ids": [
+            "23933657597"
+          ],
+          "count": 1,
+          "distance": 76889.859375,
+          "elevation_gain": 1094.0,
+          "moving_time": 10904.420013427734
         }
       },
       "VirtualRide": {
@@ -17609,7 +17627,7 @@
       }
     }
   },
-  "generated_at": "2026-08-11T05:02:40.514268+00:00",
+  "generated_at": "2026-08-12T05:27:31.232648+00:00",
   "other_bucket": "OtherSports",
   "repo": "ettoretrevisiol/git-sweaty",
   "source": "garmin",

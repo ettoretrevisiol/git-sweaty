@@ -12621,5 +12621,18 @@
     "start_date_local": "2026-08-10T08:58:35",
     "type": "Hike",
     "year": 2026
+  },
+  {
+    "date": "2026-08-11",
+    "distance": 76889.859375,
+    "elevation_gain": 1094.0,
+    "id": "23933657597",
+    "moving_time": 10904.420013427734,
+    "name": "Cortina - San Candido - Misurina",
+    "raw_activity_type": "road_biking",
+    "raw_type": "road_biking",
+    "start_date_local": "2026-08-11T08:27:16",
+    "type": "Ride",
+    "year": 2026
   }
 ]
