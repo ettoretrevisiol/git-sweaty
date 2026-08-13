@@ -12589,7 +12589,7 @@
     "elevation_gain": 299.3799999952316,
     "id": "23899164163",
     "moving_time": 4162.0,
-    "name": "Ra Pegna",
+    "name": "Ferrata Ra Pegna",
     "raw_activity_type": "mountaineering",
     "raw_type": "mountaineering",
     "start_date_local": "2026-08-08T09:00:29",
@@ -12633,6 +12633,19 @@
     "raw_type": "road_biking",
     "start_date_local": "2026-08-11T08:27:16",
     "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-12",
+    "distance": 8731.650390625,
+    "elevation_gain": 821.0099999997765,
+    "id": "23949885850",
+    "moving_time": 8651.0,
+    "name": "Ferrata Averau",
+    "raw_activity_type": "hiking",
+    "raw_type": "hiking",
+    "start_date_local": "2026-08-12T08:54:35",
+    "type": "Hike",
     "year": 2026
   }
 ]
