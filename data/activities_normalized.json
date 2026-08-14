@@ -12642,10 +12642,23 @@
     "id": "23949885850",
     "moving_time": 8651.0,
     "name": "Ferrata Averau",
-    "raw_activity_type": "hiking",
-    "raw_type": "hiking",
+    "raw_activity_type": "mountaineering",
+    "raw_type": "mountaineering",
     "start_date_local": "2026-08-12T08:54:35",
-    "type": "Hike",
+    "type": "mountaineering",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-13",
+    "distance": 87760.1328125,
+    "elevation_gain": 2289.0,
+    "id": "23961022502",
+    "moving_time": 16026.072967529297,
+    "name": "Cortina - Falzarego - Campolongo - Valparola",
+    "raw_activity_type": "road_biking",
+    "raw_type": "road_biking",
+    "start_date_local": "2026-08-13T08:32:43",
+    "type": "Ride",
     "year": 2026
   }
 ]
