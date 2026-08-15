@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T05:28:02.326557+00:00",
+  "generated_at": "2026-08-15T04:24:20.052007+00:00",
   "years": {
     "2021": {
       "Run": {
@@ -8827,6 +8827,15 @@
           "distance": 8731.650390625,
           "elevation_gain": 821.0099999997765,
           "moving_time": 8651.0
+        },
+        "2026-08-14": {
+          "activity_ids": [
+            "23974929624"
+          ],
+          "count": 1,
+          "distance": 5824.10009765625,
+          "elevation_gain": 1104.56,
+          "moving_time": 3310.0
         }
       },
       "resort_skiing": {
