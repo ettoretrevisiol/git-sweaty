@@ -8783,6 +8783,15 @@
       "type": "Hike",
       "url": "https://connect.garmin.com/modern/activity/23987318255",
       "year": 2026
+    },
+    {
+      "date": "2026-08-16",
+      "hour": 8,
+      "name": "Cortina - Giau - Valparola",
+      "subtype": "road_biking",
+      "type": "Ride",
+      "url": "https://connect.garmin.com/modern/activity/23996169972",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -16965,6 +16974,15 @@
           "distance": 87760.1328125,
           "elevation_gain": 2289.0,
           "moving_time": 16026.072967529297
+        },
+        "2026-08-16": {
+          "activity_ids": [
+            "23996169972"
+          ],
+          "count": 1,
+          "distance": 62000.55078125,
+          "elevation_gain": 1879.0,
+          "moving_time": 12569.853057861328
         }
       },
       "VirtualRide": {
@@ -17699,7 +17717,7 @@
       }
     }
   },
-  "generated_at": "2026-08-16T04:30:55.486960+00:00",
+  "generated_at": "2026-08-17T04:36:13.535779+00:00",
   "other_bucket": "OtherSports",
   "repo": "ettoretrevisiol/git-sweaty",
   "source": "garmin",
