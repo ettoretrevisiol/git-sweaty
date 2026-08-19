@@ -8792,6 +8792,15 @@
       "type": "Ride",
       "url": "https://connect.garmin.com/modern/activity/23996169972",
       "year": 2026
+    },
+    {
+      "date": "2026-08-18",
+      "hour": 8,
+      "name": "Ara - Tanamea - Buia - Pagnacco",
+      "subtype": "road_biking",
+      "type": "Ride",
+      "url": "https://connect.garmin.com/modern/activity/24020523301",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -16983,6 +16992,15 @@
           "distance": 62000.55078125,
           "elevation_gain": 1879.0,
           "moving_time": 12569.853057861328
+        },
+        "2026-08-18": {
+          "activity_ids": [
+            "24020523301"
+          ],
+          "count": 1,
+          "distance": 88233.7421875,
+          "elevation_gain": 1228.0,
+          "moving_time": 12863.911010742188
         }
       },
       "VirtualRide": {
@@ -17717,7 +17735,7 @@
       }
     }
   },
-  "generated_at": "2026-08-18T04:30:11.739640+00:00",
+  "generated_at": "2026-08-19T04:31:49.652637+00:00",
   "other_bucket": "OtherSports",
   "repo": "ettoretrevisiol/git-sweaty",
   "source": "garmin",

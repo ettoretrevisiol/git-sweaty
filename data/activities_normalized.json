@@ -12699,5 +12699,18 @@
     "start_date_local": "2026-08-16T08:10:26",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-08-18",
+    "distance": 88233.7421875,
+    "elevation_gain": 1228.0,
+    "id": "24020523301",
+    "moving_time": 12863.911010742188,
+    "name": "Ara - Tanamea - Buia - Pagnacco",
+    "raw_activity_type": "road_biking",
+    "raw_type": "road_biking",
+    "start_date_local": "2026-08-18T08:13:18",
+    "type": "Ride",
+    "year": 2026
   }
 ]
