@@ -12712,5 +12712,18 @@
     "start_date_local": "2026-08-18T08:13:18",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-08-19",
+    "distance": 107044.46875,
+    "elevation_gain": 1249.0,
+    "id": "24034049473",
+    "moving_time": 13937.210021972656,
+    "name": "Ara - Tanamea - Caporetto - Cividale",
+    "raw_activity_type": "road_biking",
+    "raw_type": "road_biking",
+    "start_date_local": "2026-08-19T07:59:58",
+    "type": "Ride",
+    "year": 2026
   }
 ]
