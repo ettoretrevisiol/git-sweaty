@@ -12725,5 +12725,18 @@
     "start_date_local": "2026-08-19T07:59:58",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-08-22",
+    "distance": 102909.609375,
+    "elevation_gain": 1136.0,
+    "id": "24071620702",
+    "moving_time": 13045.719024658203,
+    "name": "Ara - Majano - Monteaperta - Remanzacco",
+    "raw_activity_type": "road_biking",
+    "raw_type": "road_biking",
+    "start_date_local": "2026-08-22T09:01:57",
+    "type": "Ride",
+    "year": 2026
   }
 ]
