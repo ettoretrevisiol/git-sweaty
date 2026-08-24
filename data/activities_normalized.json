@@ -12738,5 +12738,18 @@
     "start_date_local": "2026-08-22T09:01:57",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-08-23",
+    "distance": 90554.7421875,
+    "elevation_gain": 1821.0,
+    "id": "24083392793",
+    "moving_time": 14412.617004394531,
+    "name": "Ara - Monteaperta - Taipana - Prossenicco",
+    "raw_activity_type": "road_biking",
+    "raw_type": "road_biking",
+    "start_date_local": "2026-08-23T08:15:23",
+    "type": "Ride",
+    "year": 2026
   }
 ]
