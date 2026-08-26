@@ -12751,5 +12751,18 @@
     "start_date_local": "2026-08-23T08:15:23",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-08-25",
+    "distance": 42635.48046875,
+    "elevation_gain": 396.0,
+    "id": "24113456628",
+    "moving_time": 5213.2840576171875,
+    "name": "Ara - Fagagna - Tavagnacco",
+    "raw_activity_type": "road_biking",
+    "raw_type": "road_biking",
+    "start_date_local": "2026-08-25T18:10:02",
+    "type": "Ride",
+    "year": 2026
   }
 ]
