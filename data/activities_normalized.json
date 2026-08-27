@@ -12764,5 +12764,18 @@
     "start_date_local": "2026-08-25T18:10:02",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-08-27",
+    "distance": 40252.30859375,
+    "elevation_gain": 273.0,
+    "id": "24132511348",
+    "moving_time": 4607.386962890625,
+    "name": "Ara - Attimis - Povoletto",
+    "raw_activity_type": "road_biking",
+    "raw_type": "road_biking",
+    "start_date_local": "2026-08-27T07:34:34",
+    "type": "Ride",
+    "year": 2026
   }
 ]
