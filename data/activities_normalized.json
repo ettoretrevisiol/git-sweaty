@@ -12777,5 +12777,18 @@
     "start_date_local": "2026-08-27T07:34:34",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-08-29",
+    "distance": 100662.21875,
+    "elevation_gain": 1040.0,
+    "id": "24157928844",
+    "moving_time": 12120.814025878906,
+    "name": "Ara - San Daniele - Fagagna - Sedilis",
+    "raw_activity_type": "road_biking",
+    "raw_type": "road_biking",
+    "start_date_local": "2026-08-29T08:22:15",
+    "type": "Ride",
+    "year": 2026
   }
 ]
