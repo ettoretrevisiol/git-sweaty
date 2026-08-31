@@ -12790,5 +12790,18 @@
     "start_date_local": "2026-08-29T08:22:15",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-08-30",
+    "distance": 106056.7265625,
+    "elevation_gain": 1380.0,
+    "id": "24170541318",
+    "moving_time": 14037.584899902344,
+    "name": "Ara - Forgaria - Versegnis - Cavazzo",
+    "raw_activity_type": "road_biking",
+    "raw_type": "road_biking",
+    "start_date_local": "2026-08-30T08:10:39",
+    "type": "Ride",
+    "year": 2026
   }
 ]

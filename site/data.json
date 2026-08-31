@@ -8855,6 +8855,15 @@
       "type": "Ride",
       "url": "https://connect.garmin.com/modern/activity/24157928844",
       "year": 2026
+    },
+    {
+      "date": "2026-08-30",
+      "hour": 8,
+      "name": "Ara - Forgaria - Versegnis - Cavazzo",
+      "subtype": "road_biking",
+      "type": "Ride",
+      "url": "https://connect.garmin.com/modern/activity/24170541318",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -17109,6 +17118,15 @@
           "distance": 100662.21875,
           "elevation_gain": 1040.0,
           "moving_time": 12120.814025878906
+        },
+        "2026-08-30": {
+          "activity_ids": [
+            "24170541318"
+          ],
+          "count": 1,
+          "distance": 106056.7265625,
+          "elevation_gain": 1380.0,
+          "moving_time": 14037.584899902344
         }
       },
       "VirtualRide": {
@@ -17843,7 +17861,7 @@
       }
     }
   },
-  "generated_at": "2026-08-30T09:41:08.410727+00:00",
+  "generated_at": "2026-08-31T10:24:21.705311+00:00",
   "other_bucket": "OtherSports",
   "repo": "ettoretrevisiol/git-sweaty",
   "source": "garmin",
