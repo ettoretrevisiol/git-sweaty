@@ -12803,5 +12803,18 @@
     "start_date_local": "2026-08-30T08:10:39",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-09-01",
+    "distance": 44250.03125,
+    "elevation_gain": 32.0,
+    "id": "24192593959",
+    "moving_time": 5070.4100341796875,
+    "name": "Milano - Cassinetta",
+    "raw_activity_type": "road_biking",
+    "raw_type": "road_biking",
+    "start_date_local": "2026-09-01T07:24:04",
+    "type": "Ride",
+    "year": 2026
   }
 ]
