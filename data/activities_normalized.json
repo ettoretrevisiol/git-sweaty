@@ -12855,5 +12855,18 @@
     "start_date_local": "2026-09-06T08:18:17",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-09-08",
+    "distance": 40312.37890625,
+    "elevation_gain": 31.0,
+    "id": "24280099291",
+    "moving_time": 4619.221008300781,
+    "name": "Milano - Abbiategrasso",
+    "raw_activity_type": "road_biking",
+    "raw_type": "road_biking",
+    "start_date_local": "2026-09-08T07:47:59",
+    "type": "Ride",
+    "year": 2026
   }
 ]
