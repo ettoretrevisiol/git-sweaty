@@ -12868,5 +12868,18 @@
     "start_date_local": "2026-09-08T07:47:59",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-09-10",
+    "distance": 53099.58984375,
+    "elevation_gain": 57.0,
+    "id": "24312869222",
+    "moving_time": 6083.6729736328125,
+    "name": "Milano - Mairano - Abbiategrasso",
+    "raw_activity_type": "road_biking",
+    "raw_type": "road_biking",
+    "start_date_local": "2026-09-10T18:08:14",
+    "type": "Ride",
+    "year": 2026
   }
 ]
