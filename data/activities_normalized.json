@@ -12881,5 +12881,18 @@
     "start_date_local": "2026-09-10T18:08:14",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-09-12",
+    "distance": 102408.359375,
+    "elevation_gain": 1983.0,
+    "id": "24332535841",
+    "moving_time": 16283.218994140625,
+    "name": "Lecco - Culmine - Taleggio",
+    "raw_activity_type": "road_biking",
+    "raw_type": "road_biking",
+    "start_date_local": "2026-09-12T08:30:46",
+    "type": "Ride",
+    "year": 2026
   }
 ]
