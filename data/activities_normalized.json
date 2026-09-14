@@ -12894,5 +12894,18 @@
     "start_date_local": "2026-09-12T08:30:46",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-09-13",
+    "distance": 101307.2890625,
+    "elevation_gain": 204.0,
+    "id": "24344106906",
+    "moving_time": 11567.869995117188,
+    "name": "Milano - Tornavento",
+    "raw_activity_type": "road_biking",
+    "raw_type": "road_biking",
+    "start_date_local": "2026-09-13T08:51:46",
+    "type": "Ride",
+    "year": 2026
   }
 ]
