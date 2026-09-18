@@ -12920,5 +12920,18 @@
     "start_date_local": "2026-09-15T07:21:31",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-09-17",
+    "distance": 66507.328125,
+    "elevation_gain": 69.0,
+    "id": "24398797496",
+    "moving_time": 7349.756042480469,
+    "name": "Milano - Morimondo",
+    "raw_activity_type": "road_biking",
+    "raw_type": "road_biking",
+    "start_date_local": "2026-09-17T17:16:02",
+    "type": "Ride",
+    "year": 2026
   }
 ]

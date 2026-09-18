@@ -8945,6 +8945,15 @@
       "type": "Ride",
       "url": "https://connect.garmin.com/modern/activity/24366303080",
       "year": 2026
+    },
+    {
+      "date": "2026-09-17",
+      "hour": 17,
+      "name": "Milano - Morimondo",
+      "subtype": "road_biking",
+      "type": "Ride",
+      "url": "https://connect.garmin.com/modern/activity/24398797496",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -17289,6 +17298,15 @@
           "distance": 40569.19140625,
           "elevation_gain": 30.0,
           "moving_time": 4609.565002441406
+        },
+        "2026-09-17": {
+          "activity_ids": [
+            "24398797496"
+          ],
+          "count": 1,
+          "distance": 66507.328125,
+          "elevation_gain": 69.0,
+          "moving_time": 7349.756042480469
         }
       },
       "VirtualRide": {
@@ -18023,7 +18041,7 @@
       }
     }
   },
-  "generated_at": "2026-09-17T09:06:59.029847+00:00",
+  "generated_at": "2026-09-18T08:41:22.917709+00:00",
   "other_bucket": "OtherSports",
   "repo": "ettoretrevisiol/git-sweaty",
   "source": "garmin",
