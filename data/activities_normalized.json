@@ -12933,5 +12933,18 @@
     "start_date_local": "2026-09-17T17:16:02",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-09-19",
+    "distance": 126800.859375,
+    "elevation_gain": 2086.0,
+    "id": "24419641071",
+    "moving_time": 18743.074981689453,
+    "name": "Tre Valli Varesine",
+    "raw_activity_type": "road_biking",
+    "raw_type": "road_biking",
+    "start_date_local": "2026-09-19T08:39:55",
+    "type": "Ride",
+    "year": 2026
   }
 ]

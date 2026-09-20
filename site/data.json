@@ -8954,6 +8954,15 @@
       "type": "Ride",
       "url": "https://connect.garmin.com/modern/activity/24398797496",
       "year": 2026
+    },
+    {
+      "date": "2026-09-19",
+      "hour": 8,
+      "name": "Tre Valli Varesine",
+      "subtype": "road_biking",
+      "type": "Ride",
+      "url": "https://connect.garmin.com/modern/activity/24419641071",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -17307,6 +17316,15 @@
           "distance": 66507.328125,
           "elevation_gain": 69.0,
           "moving_time": 7349.756042480469
+        },
+        "2026-09-19": {
+          "activity_ids": [
+            "24419641071"
+          ],
+          "count": 1,
+          "distance": 126800.859375,
+          "elevation_gain": 2086.0,
+          "moving_time": 18743.074981689453
         }
       },
       "VirtualRide": {
@@ -18041,7 +18059,7 @@
       }
     }
   },
-  "generated_at": "2026-09-19T08:28:13.237836+00:00",
+  "generated_at": "2026-09-20T09:00:09.267037+00:00",
   "other_bucket": "OtherSports",
   "repo": "ettoretrevisiol/git-sweaty",
   "source": "garmin",
