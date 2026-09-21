@@ -12946,5 +12946,31 @@
     "start_date_local": "2026-09-19T08:39:55",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-09-20",
+    "distance": 103464.5390625,
+    "elevation_gain": 223.0,
+    "id": "24430453668",
+    "moving_time": 12815.768005371094,
+    "name": "Milano - Tornavento",
+    "raw_activity_type": "road_biking",
+    "raw_type": "road_biking",
+    "start_date_local": "2026-09-20T08:36:02",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-21",
+    "distance": 40409.0703125,
+    "elevation_gain": 31.0,
+    "id": "24439888804",
+    "moving_time": 4605.8590087890625,
+    "name": "Milano - Abbiategrasso",
+    "raw_activity_type": "road_biking",
+    "raw_type": "road_biking",
+    "start_date_local": "2026-09-21T07:47:08",
+    "type": "Ride",
+    "year": 2026
   }
 ]
