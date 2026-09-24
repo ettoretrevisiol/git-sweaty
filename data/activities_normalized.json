@@ -12985,5 +12985,18 @@
     "start_date_local": "2026-09-23T07:36:45",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-09-24",
+    "distance": 40282.33984375,
+    "elevation_gain": 32.0,
+    "id": "24477736880",
+    "moving_time": 4378.61600112915,
+    "name": "Milano - Rosate - Vermezzo",
+    "raw_activity_type": "road_biking",
+    "raw_type": "road_biking",
+    "start_date_local": "2026-09-24T06:47:38",
+    "type": "Ride",
+    "year": 2026
   }
 ]
