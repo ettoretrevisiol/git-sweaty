@@ -12998,5 +12998,18 @@
     "start_date_local": "2026-09-24T06:47:38",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-09-26",
+    "distance": 104537.25,
+    "elevation_gain": 1760.0,
+    "id": "24503295760",
+    "moving_time": 14763.972045898438,
+    "name": "Broni - Zavattarello - Casteggio",
+    "raw_activity_type": "road_biking",
+    "raw_type": "road_biking",
+    "start_date_local": "2026-09-26T08:11:39",
+    "type": "Ride",
+    "year": 2026
   }
 ]

@@ -8999,6 +8999,15 @@
       "type": "Ride",
       "url": "https://connect.garmin.com/modern/activity/24477736880",
       "year": 2026
+    },
+    {
+      "date": "2026-09-26",
+      "hour": 8,
+      "name": "Broni - Zavattarello - Casteggio",
+      "subtype": "road_biking",
+      "type": "Ride",
+      "url": "https://connect.garmin.com/modern/activity/24503295760",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -17397,6 +17406,15 @@
           "distance": 40282.33984375,
           "elevation_gain": 32.0,
           "moving_time": 4378.61600112915
+        },
+        "2026-09-26": {
+          "activity_ids": [
+            "24503295760"
+          ],
+          "count": 1,
+          "distance": 104537.25,
+          "elevation_gain": 1760.0,
+          "moving_time": 14763.972045898438
         }
       },
       "VirtualRide": {
@@ -18131,7 +18149,7 @@
       }
     }
   },
-  "generated_at": "2026-09-26T09:00:40.919197+00:00",
+  "generated_at": "2026-09-27T09:45:34.808710+00:00",
   "other_bucket": "OtherSports",
   "repo": "ettoretrevisiol/git-sweaty",
   "source": "garmin",
