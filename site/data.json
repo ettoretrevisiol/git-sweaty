@@ -9048,7 +9048,7 @@
     {
       "date": "2026-10-04",
       "hour": 8,
-      "name": "Milan Road Cycling",
+      "name": "Milano - Bereguardo - Abbiategrasso",
       "subtype": "road_biking",
       "type": "Ride",
       "url": "https://connect.garmin.com/modern/activity/24600463973",
@@ -18239,7 +18239,7 @@
       }
     }
   },
-  "generated_at": "2026-10-04T10:22:14.370702+00:00",
+  "generated_at": "2026-10-05T11:06:50.791907+00:00",
   "other_bucket": "OtherSports",
   "repo": "ettoretrevisiol/git-sweaty",
   "source": "garmin",
