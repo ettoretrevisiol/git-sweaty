@@ -13089,5 +13089,18 @@
     "start_date_local": "2026-10-06T08:05:51",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-10-08",
+    "distance": 41803.6796875,
+    "elevation_gain": 0.0,
+    "id": "24648843858",
+    "moving_time": 4829.740997314453,
+    "name": "WattsUpAI W41 Thu - 4x10min Z4",
+    "raw_activity_type": "indoor_cycling",
+    "raw_type": "indoor_cycling",
+    "start_date_local": "2026-10-08T08:52:01",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
