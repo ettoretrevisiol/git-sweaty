@@ -13102,5 +13102,18 @@
     "start_date_local": "2026-10-08T08:52:01",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-10-10",
+    "distance": 110488.6796875,
+    "elevation_gain": 967.0,
+    "id": "24672774513",
+    "moving_time": 13502.171997070312,
+    "name": "Sarnico - Valle Rossa - Franciacorta",
+    "raw_activity_type": "road_biking",
+    "raw_type": "road_biking",
+    "start_date_local": "2026-10-10T08:55:27",
+    "type": "Ride",
+    "year": 2026
   }
 ]
