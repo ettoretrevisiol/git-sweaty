@@ -9089,6 +9089,15 @@
       "type": "Ride",
       "url": "https://connect.garmin.com/modern/activity/24684616354",
       "year": 2026
+    },
+    {
+      "date": "2026-10-13",
+      "hour": 8,
+      "name": "WattsUpAI W42 Tue - 3x12min Z4",
+      "subtype": "indoor_cycling",
+      "type": "VirtualRide",
+      "url": "https://connect.garmin.com/modern/activity/24705520178",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -18056,6 +18065,15 @@
           "distance": 41803.6796875,
           "elevation_gain": 0.0,
           "moving_time": 4829.740997314453
+        },
+        "2026-10-13": {
+          "activity_ids": [
+            "24705520178"
+          ],
+          "count": 1,
+          "distance": 35273.359375,
+          "elevation_gain": 0.0,
+          "moving_time": 4021.988037109375
         }
       },
       "WeightTraining": {
@@ -18311,7 +18329,7 @@
       }
     }
   },
-  "generated_at": "2026-10-12T11:36:18.152613+00:00",
+  "generated_at": "2026-10-13T11:21:19.633177+00:00",
   "other_bucket": "OtherSports",
   "repo": "ettoretrevisiol/git-sweaty",
   "source": "garmin",

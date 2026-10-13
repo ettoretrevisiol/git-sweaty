@@ -13128,5 +13128,18 @@
     "start_date_local": "2026-10-11T09:55:14",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-10-13",
+    "distance": 35273.359375,
+    "elevation_gain": 0.0,
+    "id": "24705520178",
+    "moving_time": 4021.988037109375,
+    "name": "WattsUpAI W42 Tue - 3x12min Z4",
+    "raw_activity_type": "indoor_cycling",
+    "raw_type": "indoor_cycling",
+    "start_date_local": "2026-10-13T08:19:34",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
