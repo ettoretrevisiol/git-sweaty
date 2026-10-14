@@ -13141,5 +13141,18 @@
     "start_date_local": "2026-10-13T08:19:34",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-10-14",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "24717910998",
+    "moving_time": 1739.740966796875,
+    "name": "WattsUpAI W42 Wed - Core 3 round",
+    "raw_activity_type": "strength_training",
+    "raw_type": "strength_training",
+    "start_date_local": "2026-10-14T08:35:54",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
