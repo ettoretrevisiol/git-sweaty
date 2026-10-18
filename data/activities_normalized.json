@@ -13167,5 +13167,18 @@
     "start_date_local": "2026-10-15T08:58:05",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-10-17",
+    "distance": 114654.828125,
+    "elevation_gain": 1845.0,
+    "id": "24755759995",
+    "moving_time": 16436.948974609375,
+    "name": "Como - Intelvi - Lugano - Civiglio - San Fermo",
+    "raw_activity_type": "road_biking",
+    "raw_type": "road_biking",
+    "start_date_local": "2026-10-17T09:18:10",
+    "type": "Ride",
+    "year": 2026
   }
 ]

@@ -9116,6 +9116,15 @@
       "type": "VirtualRide",
       "url": "https://connect.garmin.com/modern/activity/24730280408",
       "year": 2026
+    },
+    {
+      "date": "2026-10-17",
+      "hour": 9,
+      "name": "Como - Intelvi - Lugano - Civiglio - San Fermo",
+      "subtype": "road_biking",
+      "type": "Ride",
+      "url": "https://connect.garmin.com/modern/activity/24755759995",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -17595,6 +17604,15 @@
           "distance": 92699.8203125,
           "elevation_gain": 164.0,
           "moving_time": 10694.399047851562
+        },
+        "2026-10-17": {
+          "activity_ids": [
+            "24755759995"
+          ],
+          "count": 1,
+          "distance": 114654.828125,
+          "elevation_gain": 1845.0,
+          "moving_time": 16436.948974609375
         }
       },
       "VirtualRide": {
@@ -18365,7 +18383,7 @@
       }
     }
   },
-  "generated_at": "2026-10-17T08:12:40.900059+00:00",
+  "generated_at": "2026-10-18T08:29:47.350014+00:00",
   "other_bucket": "OtherSports",
   "repo": "ettoretrevisiol/git-sweaty",
   "source": "garmin",
