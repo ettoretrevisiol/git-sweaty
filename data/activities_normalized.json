@@ -13180,5 +13180,31 @@
     "start_date_local": "2026-10-17T09:18:10",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-10-18",
+    "distance": 29971.400390625,
+    "elevation_gain": 0.0,
+    "id": "24765126267",
+    "moving_time": 3600.47900390625,
+    "name": "Tacx - WattsUpAI W42 Sun - Z2 indoor 60min (rain)",
+    "raw_activity_type": "indoor_cycling",
+    "raw_type": "indoor_cycling",
+    "start_date_local": "2026-10-18T10:34:24",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-19",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "24775558923",
+    "moving_time": 2080.5380859375,
+    "name": "WattsUpAI W43 Mon - Core only",
+    "raw_activity_type": "strength_training",
+    "raw_type": "strength_training",
+    "start_date_local": "2026-10-19T09:10:37",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
