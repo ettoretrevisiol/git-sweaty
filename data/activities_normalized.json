@@ -13219,5 +13219,18 @@
     "start_date_local": "2026-10-20T07:47:09",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-10-21",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "24799606269",
+    "moving_time": 1798.053955078125,
+    "name": "WattsUpAI W43 Wed - Strength fir",
+    "raw_activity_type": "strength_training",
+    "raw_type": "strength_training",
+    "start_date_local": "2026-10-21T08:56:37",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
