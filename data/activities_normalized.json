@@ -13245,5 +13245,18 @@
     "start_date_local": "2026-10-22T08:51:45",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-10-24",
+    "distance": 125695.578125,
+    "elevation_gain": 268.0,
+    "id": "24835432749",
+    "moving_time": 14284.1669921875,
+    "name": "Milano - Tornavento - Mairano",
+    "raw_activity_type": "road_biking",
+    "raw_type": "road_biking",
+    "start_date_local": "2026-10-24T10:04:14",
+    "type": "Ride",
+    "year": 2026
   }
 ]
