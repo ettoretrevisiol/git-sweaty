@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T08:53:59.943402+00:00",
+  "generated_at": "2026-10-26T09:36:13.589226+00:00",
   "years": {
     "2021": {
       "Run": {
@@ -8495,6 +8495,15 @@
           "distance": 125695.578125,
           "elevation_gain": 268.0,
           "moving_time": 14284.1669921875
+        },
+        "2026-10-25": {
+          "activity_ids": [
+            "24845700182"
+          ],
+          "count": 1,
+          "distance": 64691.171875,
+          "elevation_gain": 117.0,
+          "moving_time": 8348.136901855469
         }
       },
       "VirtualRide": {
@@ -9183,6 +9192,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 1798.053955078125
+        },
+        "2026-10-26": {
+          "activity_ids": [
+            "24854267953"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1104.0789794921875
         }
       },
       "backcountry_skiing": {

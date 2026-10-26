@@ -13258,5 +13258,31 @@
     "start_date_local": "2026-10-24T10:04:14",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-10-25",
+    "distance": 64691.171875,
+    "elevation_gain": 117.0,
+    "id": "24845700182",
+    "moving_time": 8348.136901855469,
+    "name": "Milano - Mairano - Morimondo",
+    "raw_activity_type": "road_biking",
+    "raw_type": "road_biking",
+    "start_date_local": "2026-10-25T09:55:24",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-26",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "24854267953",
+    "moving_time": 1104.0789794921875,
+    "name": "WattsUpAI W44 Mon - Strength B",
+    "raw_activity_type": "strength_training",
+    "raw_type": "strength_training",
+    "start_date_local": "2026-10-26T08:56:11",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
