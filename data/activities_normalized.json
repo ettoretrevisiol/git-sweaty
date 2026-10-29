@@ -13310,5 +13310,18 @@
     "start_date_local": "2026-10-28T08:46:23",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-10-29",
+    "distance": 29767.9609375,
+    "elevation_gain": 0.0,
+    "id": "24890559799",
+    "moving_time": 3301.9860076904297,
+    "name": "Tacx - WattsUpAI W44 Thu - 3x10min Z4 225W",
+    "raw_activity_type": "indoor_cycling",
+    "raw_type": "indoor_cycling",
+    "start_date_local": "2026-10-29T09:15:01",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
