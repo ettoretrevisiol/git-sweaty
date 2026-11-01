@@ -9224,6 +9224,15 @@
       "type": "VirtualRide",
       "url": "https://connect.garmin.com/modern/activity/24890559799",
       "year": 2026
+    },
+    {
+      "date": "2026-10-31",
+      "hour": 9,
+      "name": "Milano - Bereguardo - Robecco",
+      "subtype": "road_biking",
+      "type": "Ride",
+      "url": "https://connect.garmin.com/modern/activity/24915193643",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -17730,6 +17739,15 @@
           "distance": 64691.171875,
           "elevation_gain": 117.0,
           "moving_time": 8348.136901855469
+        },
+        "2026-10-31": {
+          "activity_ids": [
+            "24915193643"
+          ],
+          "count": 1,
+          "distance": 90286.0,
+          "elevation_gain": 139.0,
+          "moving_time": 10263.726013183594
         }
       },
       "VirtualRide": {
@@ -18581,7 +18599,7 @@
       }
     }
   },
-  "generated_at": "2026-10-31T10:08:01.890993+00:00",
+  "generated_at": "2026-11-01T10:59:15.962177+00:00",
   "other_bucket": "OtherSports",
   "repo": "ettoretrevisiol/git-sweaty",
   "source": "garmin",
