@@ -13336,5 +13336,31 @@
     "start_date_local": "2026-10-31T09:24:08",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-11-01",
+    "distance": 63791.109375,
+    "elevation_gain": 108.0,
+    "id": "24928044468",
+    "moving_time": 8581.757019042969,
+    "name": "Milano - Mairano - Bereguardo",
+    "raw_activity_type": "road_biking",
+    "raw_type": "road_biking",
+    "start_date_local": "2026-11-01T10:03:19",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-02",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "24936730093",
+    "moving_time": 1274.2889404296875,
+    "name": "WattsUpAI W45 Mon - Strength B",
+    "raw_activity_type": "strength_training",
+    "raw_type": "strength_training",
+    "start_date_local": "2026-11-02T09:26:32",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
