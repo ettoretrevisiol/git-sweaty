@@ -13414,5 +13414,31 @@
     "start_date_local": "2026-11-07T09:32:42",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-11-08",
+    "distance": 64073.828125,
+    "elevation_gain": 105.0,
+    "id": "25007630018",
+    "moving_time": 8575.703979492188,
+    "name": "Milano - Mairano - Abbiategrasso",
+    "raw_activity_type": "road_biking",
+    "raw_type": "road_biking",
+    "start_date_local": "2026-11-08T10:02:37",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-09",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "25016900840",
+    "moving_time": 1335.18798828125,
+    "name": "WattsUpAI W46 Mon - Core only",
+    "raw_activity_type": "strength_training",
+    "raw_type": "strength_training",
+    "start_date_local": "2026-11-09T09:18:29",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
