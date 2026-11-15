@@ -13479,5 +13479,31 @@
     "start_date_local": "2026-11-12T08:49:48",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-11-14",
+    "distance": 90130.5390625,
+    "elevation_gain": 144.0,
+    "id": "25075141883",
+    "moving_time": 10102.424072265625,
+    "name": "Milano - Bereguardo - Robecco",
+    "raw_activity_type": "road_biking",
+    "raw_type": "road_biking",
+    "start_date_local": "2026-11-14T10:00:49",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-15",
+    "distance": 37465.078125,
+    "elevation_gain": 0.0,
+    "id": "25085358216",
+    "moving_time": 4498.0,
+    "name": "Tacx - WattsUpAI W46 Sun - Z2 indoor 75min (rain)",
+    "raw_activity_type": "indoor_cycling",
+    "raw_type": "indoor_cycling",
+    "start_date_local": "2026-11-15T10:52:27",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
