@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T12:42:41.867330+00:00",
+  "generated_at": "2026-11-18T12:34:56.861262+00:00",
   "years": {
     "2021": {
       "Run": {
@@ -9372,6 +9372,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 1769.676025390625
+        },
+        "2026-11-18": {
+          "activity_ids": [
+            "25116850572"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2767.74609375
         }
       },
       "backcountry_skiing": {
