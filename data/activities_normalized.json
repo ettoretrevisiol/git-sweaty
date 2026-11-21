@@ -13557,5 +13557,18 @@
     "start_date_local": "2026-11-19T08:51:03",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-11-21",
+    "distance": 101191.109375,
+    "elevation_gain": 233.0,
+    "id": "25150931558",
+    "moving_time": 11537.85400390625,
+    "name": "Milan Road Cycling",
+    "raw_activity_type": "road_biking",
+    "raw_type": "road_biking",
+    "start_date_local": "2026-11-21T09:31:43",
+    "type": "Ride",
+    "year": 2026
   }
 ]
