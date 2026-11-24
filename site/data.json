@@ -9413,6 +9413,15 @@
       "type": "WeightTraining",
       "url": "https://connect.garmin.com/modern/activity/25170309517",
       "year": 2026
+    },
+    {
+      "date": "2026-11-24",
+      "hour": 7,
+      "name": "Tacx - WattsUpAI W48 Tue - 3x10min Z4 240W",
+      "subtype": "indoor_cycling",
+      "type": "VirtualRide",
+      "url": "https://connect.garmin.com/modern/activity/25180744033",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -18596,6 +18605,15 @@
           "distance": 34681.87890625,
           "elevation_gain": 0.0,
           "moving_time": 4201.493011474609
+        },
+        "2026-11-24": {
+          "activity_ids": [
+            "25180744033"
+          ],
+          "count": 1,
+          "distance": 30418.859375,
+          "elevation_gain": 0.0,
+          "moving_time": 3447.4030151367188
         }
       },
       "WeightTraining": {
@@ -18959,7 +18977,7 @@
       }
     }
   },
-  "generated_at": "2026-11-23T13:57:47.436666+00:00",
+  "generated_at": "2026-11-24T14:29:41.518046+00:00",
   "other_bucket": "OtherSports",
   "repo": "ettoretrevisiol/git-sweaty",
   "source": "garmin",
