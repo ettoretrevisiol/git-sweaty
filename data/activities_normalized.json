@@ -13635,5 +13635,18 @@
     "start_date_local": "2026-11-26T08:22:31",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-11-28",
+    "distance": 82314.78125,
+    "elevation_gain": 126.0,
+    "id": "25224411325",
+    "moving_time": 9428.342041015625,
+    "name": "Milano - Bereguardo - Robecco",
+    "raw_activity_type": "road_biking",
+    "raw_type": "road_biking",
+    "start_date_local": "2026-11-28T10:06:05",
+    "type": "Ride",
+    "year": 2026
   }
 ]
